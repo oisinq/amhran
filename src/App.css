@@ -1,20 +1,8 @@
-@import url("https://fonts.googleapis.com/css?family=Montserrat:300italic,400,700");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300italic,400,600,700");
 
 .App {
   text-align: center;
   font-family: 'Montserrat', sans-serif;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
-
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
 }
 
 .track {

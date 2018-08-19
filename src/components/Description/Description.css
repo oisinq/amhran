@@ -1,0 +1,22 @@
+.main {
+    background: black;
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+
+span {
+    color: white;
+}
+
+.firstParagraph {
+    font-weight: 600;
+    font-size: 1.5em;
+    padding: 4px;
+    padding-bottom: 20px;
+}
+
+.secondParagraph {
+    font-size: 1.2em;
+    font-weight: 400;
+}
