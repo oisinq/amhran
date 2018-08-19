@@ -35,10 +35,12 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: flex-end;
+    flex-wrap:wrap;
 }
 
 .footerElement {
     padding: 10px;
+    /* max-width: 50%; */
 }
 
 .socials {

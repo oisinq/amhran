@@ -17,8 +17,8 @@ const Footer = () => {
         <div className="bottomFooter">
             <div className="footerElement"><img src={Logo} height="53"></img></div>
             <div className="socials">
-                <div className="footerElement"><img src={Twitter} height="43"></img></div>
-                <div className="footerElement"><img src={Facebook} height="43"></img></div>
+                <div className="footerElement"><a href="https://twitter.com/amhranIE"><img src={Twitter} height="43"></img></a></div>
+                <div className="footerElement"><a href="https://facebook.com/amhranIE"><img src={Facebook} height="43"></img></a></div>
             </div>
         </div>
         <span id="veryBottom">Site by <a href="https://oisin.io">Oisin Quinn</a></span>
