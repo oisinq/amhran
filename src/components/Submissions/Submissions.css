@@ -1,0 +1,10 @@
+.mainy {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.formElement {
+    width: 100%;
+    max-width: 350px;
+}

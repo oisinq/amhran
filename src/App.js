@@ -1,21 +1,19 @@
 import React, { Component } from 'react';
 import Description from './components/Description/Description';
 import Track from './components/Track/Track';
-import './App.css';
+import Footer from './components/Footer/Footer'
 
-window.onresize = function(){
-  document.body.height = window.innerHeight;
-}
-window.onresize(); // called to initially set the height.
+import './App.css';
 
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        {/* <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" />  */}
+        <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous"></link>
         <Track className="track"/>
         <Description />
+        <Footer />
       </div>
     );
   }

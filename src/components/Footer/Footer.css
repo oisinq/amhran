@@ -1,0 +1,56 @@
+.lineBreak {
+    background: white;
+    height: 1px;
+    width: 100%;
+}
+
+.footer {
+    background: #2E2E2E;
+    display: flex;
+    flex-direction: column;
+}
+
+.footerHeader {
+    font-weight: 600;
+    font-size: 2.5em;
+    padding: 20px;
+}
+
+.footerText {
+    font-size: 1.2em;
+    font-weight: 400;
+    padding-top: 10px;
+}
+
+.footerTextSmall {
+    font-size: 1em;
+    font-weight: 400;
+    padding: 20px;
+}
+
+.bottomFooter {
+    padding-top: 20px;
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.footerElement {
+    padding: 10px;
+}
+
+.socials {
+    display: flex;
+    flex-direction: row;
+    padding-right: 10px;
+}
+
+a, a:visited {
+    color: white;
+}
+
+#veryBottom {
+    padding: 4px;
+}
