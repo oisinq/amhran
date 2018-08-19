@@ -13,9 +13,16 @@
     height: 100%;
 }
 
+.entryNumber {
+    color: white;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 3em;
+}
+
 .songTitle {
     color: white;
-    font-weight: 700 !important;
+    font-weight: 700;
     font-size: 3em;
 }
 
@@ -23,4 +30,12 @@
     color: white;
     font-weight: 400;
     font-size: 2.5em;
+}
+
+.flexElement {
+    margin: 4px;
+}
+
+.arrow {
+    margin-bottom: 65px;
 }
