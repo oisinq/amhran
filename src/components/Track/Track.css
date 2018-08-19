@@ -1,0 +1,17 @@
+.track {
+    background: #BA5370;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, rgb(244, 226, 216, 0.5), rgb(186, 83, 112, 0.5)), url("../../images/corners_white.jpg"), no-repeat;  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, rgb(244, 226, 216, 0.5), rgb(186, 83, 112, 0.5)), url("../../images/corners_white.jpg"), no-repeat; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-size: cover;
+    background-position: center;
+}
+
+.trackImg {
+    height: 100%;
+}
+
+.songTitle {
+    color: white;
+    font-weight: 1000;
+    font-size: 3em;
+}
