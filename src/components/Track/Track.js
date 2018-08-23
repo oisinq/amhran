@@ -2,19 +2,30 @@ import React from 'react';
 import Arrow from '../../images/scroll.svg'
 import './Track.css';
 
-const Track = () => {
+const Track = ({track}) => {
+    let embed;
+    
+    if (track.mediaType === "spotify") {
+        embed = <iframe src={track.mediaLink} title="Track of the day" width="300px" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    } else if (track.mediaType === "bandcamp") {
+        embed = <iframe src={track.mediaLink} title="Track of the day" seamless className="bandcamp">{track.songName} by {track.artistName}</iframe>
+    } else if (track.mediaType === "soundcloud") {
+        console.log("I got nothin'!");
+    }
+    console.log(embed);
+
     return(
-    <div className="track">
-        <span className="entryNumber flexElement">#001</span>
-        <span className="songTitle flexElement">Rainy Night in Slomo</span>
-        <span className="artist flexElement">We Cut Corners</span>
-        <div className="flexElement">
-        <iframe src="https://open.spotify.com/embed/track/2wq2KG5bc2tjXecYpfcbzT" width="300px" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-        </div>
-        <div className="flexElement arrow">
-            <img src={Arrow} width="63"></img>
-        </div>
-    </div>);
-}
+        <div className="track">
+            <span className="entryNumber flexElement">{track.order}</span>
+            <span className="songTitle flexElement">{track.songName}</span>
+            <span className="artist flexElement">{track.artistName}</span>
+            <div className="flexElement">
+            {embed}
+            </div>
+            <div className="flexElement arrow">
+                <img src={Arrow} alt="" width="63"></img>
+            </div>
+        </div>);
+    }
 
 export default Track;

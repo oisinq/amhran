@@ -1,12 +1,17 @@
 {
     "tracks": [
       {
+        "order": "#001",
         "songName": "Rainy Night In Slomo",
         "artistName": "We Cut Corners",
         "mediaType": "spotify",
         "mediaLink": "https://open.spotify.com/embed/track/2wq2KG5bc2tjXecYpfcbzT",
-        "image":"001.jpg"
+        "image":"001.jpg",
+        "gradient":"linear-gradient(to right, rgba(244, 226, 216, 0.5), rgba(186, 83, 112, 0.5))",
+        "topDesc": "We Cut Corners' latest is a predictably complex meditation, with religious imagery and vignettes of a stagnating relationship blending beautifully.",
+        "mainDesc": "Sounding absolutely nothing like the Pogues song whose name it plays on, We Cut Corners' latest release 'Rainy Night In Slomo' is a quietly building track which ends climactically (not to mention brilliantly) with the lines 'Don't mean to be abrupt/But can we focus on not fucking this one up?' It's simple guitar and drum rhythms help slowly ratchet up the intensity of the song. What it's really about is anyone's guess."
       }, {
+        "order": "#002",
         "songName": "Bumblebee",
         "artistName": "James Bentley",
         "mediaType": "bandcamp",
