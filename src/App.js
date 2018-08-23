@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import Description from './components/Description/Description';
 import Track from './components/Track/Track';
 import Footer from './components/Footer/Footer'
-
 import './App.css';
 
 

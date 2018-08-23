@@ -1,0 +1,17 @@
+{
+    "tracks": [
+      {
+        "songName": "Rainy Night In Slomo",
+        "artistName": "We Cut Corners",
+        "mediaType": "spotify",
+        "mediaLink": "https://open.spotify.com/embed/track/2wq2KG5bc2tjXecYpfcbzT",
+        "image":"001.jpg"
+      }, {
+        "songName": "Bumblebee",
+        "artistName": "James Bentley",
+        "mediaType": "bandcamp",
+        "mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=791513425/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=2709974385/transparent=true",
+        "image":"002.jpg"
+      }
+    ]
+  }
