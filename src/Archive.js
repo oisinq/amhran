@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import CardList from './components/CardList/CardList';
 //import './Archive.css';
 
 class Archive extends Component {
@@ -6,6 +7,7 @@ class Archive extends Component {
     return (
         <div className="App">
         <h1>Archive</h1>
+        <CardList tracks={this.props.tracks}></CardList>
       </div>
     );
   }

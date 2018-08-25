@@ -1,0 +1,38 @@
+.card {
+    width: 300px;
+    height: 163px;
+    border-style: solid;
+    border-width: 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 8px;
+}
+
+.cardTrackInfo {
+    display: flex;
+    flex-direction: column;
+}
+
+.cardNumber {
+    text-align: right;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 1.3em;
+    margin: -4px -2px 0px 0px;
+}
+
+
+.cardSongName {
+    text-align: left;
+    font-weight: 700;
+    font-size: 1.4em;
+    margin-left: 0px;
+}
+
+.cardArtistName {
+    text-align: left;
+    font-weight: 300;
+    font-size: 1.4em;
+    margin: 0px 0px 4px 0px;
+}

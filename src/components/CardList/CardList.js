@@ -1,15 +1,18 @@
 import React from 'react';
-import Card from './Card';
+import Card from '../Card/Card';
+import './CardList.css'
 
 const CardList = ({tracks}) => {
+
     const cardArray = tracks.map((track) => {
-        return <Card key={track.order} id={track.order} trackName={track.trackName} artistName={track.artistName} />;
+        return <Card key={track.order} track={track} />;
     });
 
     return (
-        <div>
+        <div  className="cardList">
             {cardArray}
         </div>
+        //<Card track={tracks[0]} />
     );
 }
 
