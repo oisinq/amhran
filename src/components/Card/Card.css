@@ -19,7 +19,7 @@
     font-weight: 300;
     font-style: italic;
     font-size: 1.3em;
-    margin: -4px -2px 0px 0px;
+    margin: 0px 6px 0px 0px;
 }
 
 
@@ -27,12 +27,12 @@
     text-align: left;
     font-weight: 700;
     font-size: 1.4em;
-    margin-left: 0px;
+    margin-left: 06px;
 }
 
 .cardArtistName {
     text-align: left;
     font-weight: 300;
     font-size: 1.4em;
-    margin: 0px 0px 4px 0px;
+    margin: 0px 0px 4px 6px;
 }

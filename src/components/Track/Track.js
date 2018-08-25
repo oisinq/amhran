@@ -13,7 +13,6 @@ const Track = ({track}) => {
     } else if (track.mediaType === "soundcloud") {
         console.log("I got nothin'!");
     }
-    console.log(track.style);
 
     let imager = require(`../../images/${track.image}`);
 
@@ -25,7 +24,7 @@ const Track = ({track}) => {
     
     return(
         <div style={backgroundStyle} className="track">
-            <span className="entryNumber flexElement">{track.order}</span>
+            <span className="entryNumber flexElement">#{track.order}</span>
             <span className="songTitle flexElement">{track.songName}</span>
             <span className="artist flexElement">{track.artistName}</span>
             <div className="flexElement">

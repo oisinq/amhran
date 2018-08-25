@@ -1,42 +1,41 @@
-import trackList from './tracks';
 import React from 'react';
-import Description from './components/Description/Description';
-import Track from './components/Track/Track';
-import Footer from './components/Footer/Footer';
-import './App.css';
-
+import { Route, Switch } from 'react-router-dom';
+import trackList from './tracks';
+import Home from './paths/Home/Home';
+import Archive from './paths/Archive/Archive';
+import NoMatch from './paths/NoMatch/NoMatch';
+import BrowserRouter from 'react-router-dom/BrowserRouter';
 
 class App extends React.Component {
-  constructor() {
-    super();
-    this.state = {
-        tracks: [],
-        currentTrack: {}
-    };
-}
 
-  render() {
-    let tracks = trackList.tracks;
-    let index = tracks.length - 1;
-    let current = tracks[index];
+    render() {
+        const TrackFinder = ({ match }) => {
+            console.log("length", trackList.tracks.length)
+            let param = match.params.trackno;
+            let parsed = parseInt(param, 10);
 
-    return (
-      <div className="App">
-        <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous"></link>
-        <Track className="track" track={current} />
-        <Description />
-        <Footer />
-      </div>
-    );
-  }
+            if (isNaN(parsed) || parsed > trackList.tracks.length || parsed <= 0) {
+                console.log(parsed, "Doesn't exist!");
+                return <Home track={trackList.tracks[trackList.tracks.length-1]} />
+            } else {
+                console.log("Argument:", parsed)
+                return <Home track={trackList.tracks[parsed-1]} />
+            }
+        }
 
-  componentDidMount() {
-    this.setState({tracks: trackList.tracks});
-    let tracks = trackList.tracks;
-    let index = tracks.length - 1;
-    let current = tracks[index];
-    this.setState({currentTrack: current});
-  }
+        return (
+        <div className="App">
+          <BrowserRouter>
+              <Switch>
+                  <Route exact path="/" component={TrackFinder} />
+                  <Route exact path="/archive" render={(props) => <Archive {...props} tracks={trackList.tracks} />} />
+                  <Route exact path="/:trackno" component={TrackFinder} />
+                  <Route component={NoMatch} />
+              </Switch>
+          </BrowserRouter>
+        </div>
+      );
+    }
 }
 
 export default App;

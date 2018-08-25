@@ -1,5 +1,6 @@
 import React from 'react';
 import "./Card.css"
+import { Link } from 'react-router-dom'
 
 const Card = ({track}) => {
 
@@ -13,13 +14,15 @@ const Card = ({track}) => {
 
 
     return (
-        <div style={backgroundStyle} className="card" >
-            <span className="cardNumber">{track.order}</span>
-            <div className="cardTrackInfo">
-                <span className="cardSongName">{track.songName}</span>
-                <span className="cardArtistName">{track.artistName}</span>
+        <Link to={`/${track.order}`}  style={{ textDecoration: 'none' }}>
+            <div style={backgroundStyle} className="card">
+                <span className="cardNumber">#{track.order}</span>
+                <div className="cardTrackInfo">
+                    <span className="cardSongName">{track.songName}</span>
+                    <span className="cardArtistName">{track.artistName}</span>
+                </div>
             </div>
-        </div>
+        </Link>
     );
 }
 

@@ -1,7 +1,7 @@
 {
 	"tracks": [
 		{
-			"order": "#001",
+			"order": "001",
 			"songName": "Rainy Night In Slomo",
 			"artistName": "We Cut Corners",
 			"mediaType": "spotify",
@@ -15,7 +15,7 @@
 			"topDesc": "We Cut Corners' latest is a predictably complex meditation, with religious imagery and vignettes of a stagnating relationship blending beautifully.",
 			"mainDesc": "Sounding absolutely nothing like the Pogues song whose name it plays on, We Cut Corners' latest release 'Rainy Night In Slomo' is a quietly building track which ends climactically (not to mention brilliantly) with the lines 'Don't mean to be abrupt/But can we focus on not fucking this one up?' It's simple guitar and drum rhythms help slowly ratchet up the intensity of the song. What it's really about is anyone's guess."
 		}, {
-			"order": "#002",
+			"order": "002",
 			"songName": "Bumblebee",
 			"artistName": "James Bentley",
 			"mediaType": "bandcamp",
@@ -26,45 +26,45 @@
 				"background": "linear-gradient(to right, rgba(0, 82, 212, 0.5), rgba(67, 100, 247, 0.5), rgba(111, 177, 252, 0.5))"
 			}
 		}, {
-			"order": "#003",
+			"order": "003",
 			"songName": "Politicksis",
 			"artistName": "Kojaque",
 			"mediaType": "soundcloud",
 			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/405200460&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
-			"image": "003.jpg",
+			"image": "002.jpg",
 			"imageMin": "003_min.jpg",
 			"style": {
 				"background": "linear-gradient(to right, rgba(0, 82, 212, 0.5), rgba(67, 100, 247, 0.5), rgba(111, 177, 252, 0.5))"
 			}
     }, {
-			"order": "#004",
+			"order": "004",
 			"songName": "Watermelon Sugar (Alcohol)",
 			"artistName": "Sea Pinks",
 			"mediaType": "bandcamp",
 			"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=791513425/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=2709974385/transparent=true",
-			"image": "004.jpg",
+			"image": "002.jpg",
 			"imageMin": "004_min.jpg",
 			"style": {
 				"background": "linear-gradient(to right, rgba(0, 82, 212, 0.5), rgba(67, 100, 247, 0.5), rgba(111, 177, 252, 0.5))"
 			}
 		}, {
-			"order": "#005",
+			"order": "005",
 			"songName": "You Never Call",
 			"artistName": "Saint Sister",
 			"mediaType": "bandcamp",
 			"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=791513425/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=2709974385/transparent=true",
-			"image": "005.jpg",
+			"image": "002.jpg",
 			"imageMin": "005_min.jpg",
 			"style": {
 				"background": "linear-gradient(to right, rgba(0, 82, 212, 0.5), rgba(67, 100, 247, 0.5), rgba(111, 177, 252, 0.5))"
 			}
 		}, {
-			"order": "#006",
+			"order": "006",
 			"songName": "You're Looking a Little Rough Around the Edges",
 			"artistName": "Bokotono",
 			"mediaType": "bandcamp",
 			"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=791513425/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=2709974385/transparent=true",
-			"image": "006.jpg",
+			"image": "002.jpg",
 			"imageMin": "006_min.jpg",
 			"style": {
 				"background": "linear-gradient(to right, rgba(0, 82, 212, 0.5), rgba(67, 100, 247, 0.5), rgba(111, 177, 252, 0.5))"
