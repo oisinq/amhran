@@ -1,9 +1,31 @@
 .Nav {
-    text-align: right;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    color: black;
+    background: rgba(0,0,0,0.3);
+    /* text-shadow:
+    -0.5px -0.5px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  */
 }
 
-.Nav > span {
-    margin: 12px;
-    font-size: 2em;
+.navLink {
+    margin-right: 16px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-size: 3vh;
     font-weight: 800;
+}
+
+#navWrapper {
+    display: flex;
+    padding: 8px 0px;
+}
+
+#logo {
+    font-size: 4.5vh;
+    font-weight: 800;
+    padding: 8px;
 }

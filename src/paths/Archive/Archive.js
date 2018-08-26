@@ -12,7 +12,7 @@ class Archive extends Component {
     return (
       <div className="Archive">
         <div>
-          <Nav />
+          <Nav origin="archive" />
           <h1 className="archiveTitle">Archive</h1>
           <CardList tracks={this.props.tracks}></CardList>
         </div>

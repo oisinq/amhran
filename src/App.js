@@ -17,10 +17,10 @@ class App extends React.Component {
 
             if (isNaN(parsed) || parsed > trackList.tracks.length || parsed <= 0) {
                 console.log(parsed, "Doesn't exist!");
-                return <Home track={trackList.tracks[trackList.tracks.length-1]} />
+                return <Home track={trackList.tracks[trackList.tracks.length-1]} main="true" />
             } else {
                 console.log("Argument:", parsed)
-                return <Home track={trackList.tracks[parsed-1]} />
+                return <Home track={trackList.tracks[parsed-1]} main="false" />
             }
         }
 

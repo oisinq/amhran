@@ -4,7 +4,7 @@ import Arrow from '../../images/scroll.svg';
 
 import './Track.css';
 
-const Track = ({track}) => {
+const Track = ({track, main}) => {
     let embed;
 
     if (track.mediaType === "spotify") {
@@ -22,12 +22,17 @@ const Track = ({track}) => {
         "background-size": "cover",
         "background-position": "center"
     }
+    let nav;
 
-    console.log("help me", backgroundStyle);
+    if (main === "true") {
+        nav = <Nav origin="main"/>
+    } else {
+        nav = <Nav origin="track"/>
+    }
     
     return(
         <div style={backgroundStyle} className="fullTrack">
-            <Nav />
+            {nav}
             <div className="track">
                 <span className="entryNumber flexElement">#{track.order}</span>
                 <span className="songTitle flexElement">{track.songName}</span>
