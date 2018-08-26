@@ -4,11 +4,6 @@
     align-content: center;
     color: black;
     background: rgba(0,0,0,0.3);
-    /* text-shadow:
-    -0.5px -0.5px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000;  */
 }
 
 .navLink {
@@ -17,6 +12,10 @@
     margin-bottom: 8px;
     font-size: 3vh;
     font-weight: 800;
+}
+
+.link {
+    text-decoration: none;
 }
 
 #navWrapper {
