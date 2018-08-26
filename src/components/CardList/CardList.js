@@ -3,7 +3,6 @@ import Card from '../Card/Card';
 import './CardList.css'
 
 const CardList = ({tracks}) => {
-
     const cardArray = tracks.map((track) => {
         return <Card key={track.order} track={track} />;
     });
@@ -12,7 +11,6 @@ const CardList = ({tracks}) => {
         <div  className="cardList">
             {cardArray}
         </div>
-        //<Card track={tracks[0]} />
     );
 }
 

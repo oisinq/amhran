@@ -22,6 +22,7 @@ const Track = ({track}) => {
         "background-size": "cover",
         "background-position": "center"
     }
+    console.log("help me", backgroundStyle);
     
     return(
         <div style={backgroundStyle} className="temp">

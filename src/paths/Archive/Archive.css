@@ -1,6 +1,9 @@
 .Archive {
     background-color: #232323;
     min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .archiveTitle {
@@ -8,6 +11,7 @@
     text-align: left;
     padding: 24px 16px;
     margin: 0;
+    font-size: 4em;
 }
 
 body > #root > div {
