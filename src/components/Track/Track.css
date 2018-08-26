@@ -1,9 +1,7 @@
-.temp {
+.fullTrack {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background-size: "cover";
-    background-position: "center"
 }
 
 .track {

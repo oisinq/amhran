@@ -10,6 +10,7 @@ class App extends React.Component {
 
     render() {
         const TrackFinder = ({ match }) => {
+            console.log("route stuff!")
             console.log("length", trackList.tracks.length)
             let param = match.params.trackno;
             let parsed = parseInt(param, 10);

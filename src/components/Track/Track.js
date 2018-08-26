@@ -18,14 +18,15 @@ const Track = ({track}) => {
     let imager = require(`../../images/${track.image}`);
 
     let backgroundStyle = {
-        "background": `linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0) 30%, rgba(0,0,0,1) 100%), ${track.style.background}, url("${imager}")`,
+        "background-image": `linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.3), rgba(0,0,0,1)), ${track.style.background}, url("${imager}")`,
         "background-size": "cover",
         "background-position": "center"
     }
+
     console.log("help me", backgroundStyle);
     
     return(
-        <div style={backgroundStyle} className="temp">
+        <div style={backgroundStyle} className="fullTrack">
             <Nav />
             <div className="track">
                 <span className="entryNumber flexElement">#{track.order}</span>

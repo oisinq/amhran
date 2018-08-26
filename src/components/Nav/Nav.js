@@ -5,7 +5,7 @@ import './Nav.css';
 const Nav = () => {
     return(
     <nav className="Nav">
-        <span><Link to="/" style={{ textDecoration: 'none' }}>Home</Link></span>
+        <span><Link to="/002" style={{ textDecoration: 'none' }}>Home</Link></span>
         <span><Link to="/archive/" style={{ textDecoration: 'none' }}>Archive</Link></span>
     </nav>
 );
