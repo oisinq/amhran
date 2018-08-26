@@ -1,5 +1,6 @@
 import React from 'react';
-import Arrow from '../../images/scroll.svg'
+import Nav from '../Nav/Nav';
+import Arrow from '../../images/scroll.svg';
 
 import './Track.css';
 
@@ -11,7 +12,7 @@ const Track = ({track}) => {
     } else if (track.mediaType === "bandcamp") {
         embed = <iframe src={track.mediaLink} title="Track of the day" seamless className="bandcamp">{track.songName} by {track.artistName}</iframe>
     } else if (track.mediaType === "soundcloud") {
-        console.log("I got nothin'!");
+        embed = <iframe className="soundcloud" title="Track of the day" height="166" scrolling="no" frameborder="no" allow="autoplay" src={track.mediaLink}></iframe>
     }
 
     let imager = require(`../../images/${track.image}`);
@@ -23,15 +24,18 @@ const Track = ({track}) => {
     }
     
     return(
-        <div style={backgroundStyle} className="track">
-            <span className="entryNumber flexElement">#{track.order}</span>
-            <span className="songTitle flexElement">{track.songName}</span>
-            <span className="artist flexElement">{track.artistName}</span>
-            <div className="flexElement">
-            {embed}
-            </div>
-            <div className="flexElement arrow">
-                <img src={Arrow} alt="" width="63"></img>
+        <div style={backgroundStyle} className="temp">
+            <Nav />
+            <div className="track">
+                <span className="entryNumber flexElement">#{track.order}</span>
+                <span className="songTitle flexElement">{track.songName}</span>
+                <span className="artist flexElement">{track.artistName}</span>
+                <div className="flexElement">
+                {embed}
+                </div>
+                <div className="flexElement arrow">
+                    <img src={Arrow} alt="" width="63"></img>
+                </div>
             </div>
         </div>);
     }

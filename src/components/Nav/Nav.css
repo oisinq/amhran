@@ -1,0 +1,9 @@
+.Nav {
+    text-align: right;
+}
+
+.Nav > span {
+    margin: 12px;
+    font-size: 2em;
+    font-weight: 800;
+}

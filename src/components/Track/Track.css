@@ -1,3 +1,9 @@
+.temp {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
 .track {
     display: flex;
     flex-direction: column;
@@ -42,4 +48,12 @@
     width: 500px;
     max-width: 95%;
     height: 120px;
+}
+.soundcloud {
+    /* align: center;
+    border: 0; */
+    width: 500px;
+    max-width: 95%;
+    height: 120px;
+    margin: 8px;
 }
