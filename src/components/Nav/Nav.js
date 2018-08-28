@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom'
 import './Nav.css';
+import Logo from '../Logo/Logo';
 
 const Nav = ({origin}) => {
     let content;
@@ -16,7 +17,7 @@ const Nav = ({origin}) => {
 
     return(
     <nav className="Nav">
-        <span id="logo"><Link to="/" className="link">amhran.ie</Link></span>
+        <Logo/>
         {content}
     </nav>
 );
