@@ -17,7 +17,7 @@ class Archive extends Component {
           <CardList tracks={this.props.tracks}></CardList>
         </div>
         <div><div className="bottomFooter">
-            <div className="footerElement"><Logo /></div>
+            <div className="footerElement"><Logo /> </div>
             <div className="socials">
                 <div className="footerElement"><a href="https://twitter.com/amhranIE"><img src={Twitter} alt="Twitter" height="43"></img></a></div>
                 <div className="footerElement"><a href="https://facebook.com/amhranIE"><img src={Facebook} alt="Facebook" height="43"></img></a></div>
