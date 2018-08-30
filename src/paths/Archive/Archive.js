@@ -5,7 +5,7 @@ import './Archive.css';
 import '../../components/Footer/Footer.css'
 import Twitter from '../../images/twitter.svg'
 import Facebook from '../../images/facebook.svg'
-import Logo from '../../images/logo.svg'
+import Logo from '../../components/Logo/Logo'
 
 class Archive extends Component {
   render() {
@@ -17,7 +17,7 @@ class Archive extends Component {
           <CardList tracks={this.props.tracks}></CardList>
         </div>
         <div><div className="bottomFooter">
-            <div className="footerElement"><img src={Logo} alt="logo" height="53"></img></div>
+            <div className="footerElement"><Logo /> </div>
             <div className="socials">
                 <div className="footerElement"><a href="https://twitter.com/amhranIE"><img src={Twitter} alt="Twitter" height="43"></img></a></div>
                 <div className="footerElement"><a href="https://facebook.com/amhranIE"><img src={Facebook} alt="Facebook" height="43"></img></a></div>
