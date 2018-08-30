@@ -11,9 +11,9 @@ const Footer = () => {
     <div className="footer">
         <div className="lineBreak"></div>
         <span className="footerHeader">Every day, Amhrán showcases a new song by an Irish artist.</span>
-        <span className="footerText">We aren’t a business. We aren’t trying to make any money. Our only goal is to showcase great Irish music and to help people like you discover something new.</span>
-        <span className="footerText">Are you an Irish artist who released music recently? Are you a music fan who wants to share a song you love? Submit a track below.</span>
-        <span className="footerTextSmall">Note: we prefer Soundcloud links, then Bandcamp, Spotify, then anything else. If you're an artist, we might send you an email to work out some details.</span>
+        <span className="footerText">Our goal is to create a space where people can find new music and talented artists can have their work promoted.</span>
+        <span className="footerText">Are you an Irish artist who released music recently? Are you a music fan who wants to share a song you love? Submit a track below or email "info[at]amhran.ie".</span>
+        <span className="footerTextSmall">Note: Please only send Bandcamp, Soundcloud or Spotify links.</span>
         <Submissions />
         <div className="bottomFooter">
             {/* <div className="footerElement"><img src={Logo} alt="logo" height="53"></img></div> */}
