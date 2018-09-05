@@ -18,7 +18,7 @@ const Track = ({track, main}) => {
     let imager = require(`../../images/${track.image}`);
 
     let backgroundStyle = {
-        "background-image": `linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.3), rgba(0,0,0,1)), ${track.style.background}, url("${imager}")`,
+        "background-image": `linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.3), rgba(0,0,0,1)), url("${imager}")`,
         "background-size": "cover",
         "background-position": "center"
     }

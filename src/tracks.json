@@ -6,12 +6,7 @@
 			"artistName": "We Cut Corners",
 			"mediaType": "spotify",
 			"mediaLink": "https://open.spotify.com/embed/track/2wq2KG5bc2tjXecYpfcbzT",
-			"image": "001.jpg",
-			"imageMin": "001_min.jpg",
-			"grad": "linear-gradient(to right, rgba(244, 226, 216, 0.5), rgba(186, 83, 112, 0.5))",
-			"style": {
-				"background": "linear-gradient(to right, rgba(244, 226, 216, 0.5), rgba(186, 83, 112, 0.5))"
-			},
+			"image": "001_bg.jpg",
 			"topDesc": "We Cut Corners' latest is a predictably complex meditation, with religious imagery and vignettes of a stagnating relationship blending beautifully.",
 			"mainDesc": "Sounding absolutely nothing like the Pogues song whose name it plays on, We Cut Corners' latest release 'Rainy Night In Slomo' is a quietly building track which ends climactically (not to mention brilliantly) with the lines 'Don't mean to be abrupt/But can we focus on not fucking this one up?' It's simple guitar and drum rhythms help slowly ratchet up the intensity of the song. What it's really about is anyone's guess."
 		}, {
@@ -20,11 +15,7 @@
 			"artistName": "James Bentley",
 			"mediaType": "bandcamp",
 			"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=791513425/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=2709974385/transparent=true",
-			"image": "002.jpg",
-			"imageMin": "002_min.jpg",
-			"style": {
-				"background": "linear-gradient(to right, rgba(0, 82, 212, 0.5), rgba(67, 100, 247, 0.5), rgba(111, 177, 252, 0.5))"
-			},
+			"image": "002_bg.jpg",
 			"topDesc": "James Bentley's debut single is really great!",
 			"mainDesc": "I gotta say, he's a pretty cool guy. I think he's really cool too! With such luscious hair!"
 		}, {
@@ -33,11 +24,7 @@
 			"artistName": "Kojaque",
 			"mediaType": "soundcloud",
 			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/405200460&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
-			"image": "003.jpg",
-			"imageMin": "003_min.jpg",
-			"style": {
-				"background": "linear-gradient(to right, rgba(241,39,17, 0.5), rgba(245, 175, 25, 0.5))"
-			},
+			"image": "003_bg.jpg",
 			"topDesc": "Here lad, Kojaque is unreal",
 			"mainDesc": "I keep listen to this EP whenever I get bored and I love it so much, thanks Mark for the recc x"
     }, {
@@ -46,11 +33,7 @@
 			"artistName": "Sea Pinks",
 			"mediaType": "bandcamp",
 			"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=761596625/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2938587260/transparent=true/",
-			"image": "004_min.jpg",
-			"imageMin": "004_min.jpg",
-			"style": {
-				"background": "linear-gradient(to right, rgba(217,167,199,0.5), rgba(255,252,220, 0.5))"
-			},
+			"image": "004_bg.jpg",
 			"topDesc": "Found this on a random playlist",
 			"mainDesc": "It's pretty cool!"
 
@@ -60,11 +43,7 @@
 			"artistName": "Saint Sister",
 			"mediaType": "spotify",
 			"mediaLink": "https://open.spotify.com/embed/track/1BeVSyWNpVtfpVy7UwWXa2",
-			"image": "005.jpg",
-			"imageMin": "005_min.jpg",
-			"style": {
-				"background": "linear-gradient(to right, rgba(74,194,154, 0.5), rgba(189,255,243,0.5))"
-			},
+			"image": "005_bg.jpg",
 			"topDesc": "Saint Sister are such a cool group.",
 			"mainDesc": "Saw them for the first time at EP 2016 and they blew me away. Can't wait for the album."
 		}, {
@@ -73,11 +52,7 @@
 			"artistName": "Bokotono",
 			"mediaType": "bandcamp",
 			"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=4229894392/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/",
-			"image": "006.jpg",
-			"imageMin": "006_min.jpg",
-			"style": {
-				"background": "linear-gradient(to right, rgba(178,254,250,0.5), rgba(170,224,236,0.5))"
-			},
+			"image": "006_bg.jpg",
 			"topDesc": "This site needs more math rock.",
 			"mainDesc": "These guys are from Galway I think and they sound pretty great. Love me some math rock."
 		}

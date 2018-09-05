@@ -5,9 +5,12 @@ import { Link } from 'react-router-dom'
 const Card = ({track}) => {
 
 
-    let imager = require(`../../images/${track.imageMin}`);
+    let imager = require(`../../images/${track.image}`);
     let backgroundStyle = {
-        "background": `url("${imager}")`,
+        "background": `linear-gradient(
+            rgba(0, 0, 0, 0.2), 
+            rgba(0, 0, 0, 0.2)
+          ), url("${imager}")`,
         "background-size": "cover",
         "background-position": "center"
     }
