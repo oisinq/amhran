@@ -55,6 +55,15 @@
 			"image": "006_bg.jpg",
 			"topDesc": "This site needs more math rock.",
 			"mainDesc": "These guys are from Galway I think and they sound pretty great. Love me some math rock."
+		}, {
+			"order": "007",
+			"songName": "Take The Wheel (feat. Paul Noonan)",
+			"artistName": "Daithi",
+			"mediaType": "bandcamp",
+			"mediaLink": "https://open.spotify.com/embed/track/6BvbrsC1eY2BrRD5mHJPKk",
+			"image": "007_bg.jpg",
+			"topDesc": "This track is really haunting",
+			"mainDesc": "G'wan Daithi"
 		}
 	]
 }
