@@ -6,7 +6,7 @@
 			"artistName": "We Cut Corners",
 			"mediaType": "spotify",
 			"mediaLink": "https://open.spotify.com/embed/track/2wq2KG5bc2tjXecYpfcbzT",
-			"image": "001_bg.jpg",
+			"image": "001.jpg",
 			"topDesc": "A beautiful, subtlely-progressive track that grows into something magnificent from one of Ireland's best indie rock bands.",
 			"mainDesc": "One of my favourite tracks of the year."
 		}, {
@@ -15,7 +15,7 @@
 			"artistName": "James Bentley",
 			"mediaType": "bandcamp",
 			"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=791513425/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1742668141/transparent=true/",
-			"image": "002_bg.jpg",
+			"image": "002.jpg",
 			"topDesc": "A raw, emotional acoustic track from Cavan singer-songwriter James Bentley's debut EP.",
 			"mainDesc": "From the eerie beginning, to the towering chrous that slowly builds into a very powerful ending, this track is definitely one to check out."
 		}, {
@@ -24,7 +24,7 @@
 			"artistName": "Kojaque",
 			"mediaType": "soundcloud",
 			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/468139767&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
-			"image": "003_bg.jpg",
+			"image": "003.jpg",
 			"topDesc": "The Irish hip-hop scene has seen a resurgence lately, breaking into the mainstream with increasingly high festival-billings and a larger audience than ever.",
 			"mainDesc": "But one artist stands out amongst the rest - Kojaque. I first discovered Kojaque through his viral hit \"Midnight Flower\", but it was with his 2018 project \"Deli Daydreams\" that he cemented himself in the scene as the most creative and talented hip-hop artist in the country. \"Deli Daydreams\" was one of my favourite projects of the year, and \"Date Night\" seems like the perfect follow-up. To me it nearly feels like a victory lap, with both Kojaque and Luka Palm dripping with confidence after their new-found success. Kojaque's flow is completely flawless, and sounds like an absolute pro. Luka Palm weaves in and around Kojaque throughout the track and is a great addition. Kean Kavanagh's production is great with a commanding bassline and a late switch-up, which Kojaque rides perfectly. With a track like this, I can't wait to see what Soft Boy Records come out with next."
     }, {
@@ -33,7 +33,7 @@
 			"artistName": "Sea Pinks",
 			"mediaType": "bandcamp",
 			"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=761596625/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2938587260/transparent=true/",
-			"image": "004_bg.jpg",
+			"image": "004.jpg",
 			"topDesc": "A dreamy indie pop track from the Belfast band's upcoming 7th album."
 
 		}, {
@@ -42,7 +42,7 @@
 			"artistName": "Saint Sister",
 			"mediaType": "spotify",
 			"mediaLink": "https://open.spotify.com/embed/track/1BeVSyWNpVtfpVy7UwWXa2",
-			"image": "005_bg.jpg",
+			"image": "005.jpg",
 			"topDesc": "The latest track from one of Ireland's best live acts, starting slow and vulnerable before bursting into a powerful chorus.",
 			"mainDesc": "Their debut album \"Shape Of Silence\" will be released on October 5th."
 		}, {
@@ -51,7 +51,7 @@
 			"artistName": "Bokotono",
 			"mediaType": "bandcamp",
 			"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=4229894392/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/",
-			"image": "006_bg.jpg",
+			"image": "006.jpg",
 			"topDesc": "A strong debut single from the instrumental West Ireland band, with both delicate and thunderous moments (but, let's be honest, more thunderous than anything else)"
 		}, {
 			"order": "007",
@@ -59,7 +59,7 @@
 			"artistName": "Daithi",
 			"mediaType": "bandcamp",
 			"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=2425345544/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3129662169/transparent=true/",
-			"image": "007_bg.jpg",
+			"image": "007.jpg",
 			"topDesc": "A breathtaking track, featuring beautiful vocals from Bell X1's Paul Noonan, that sounds like nothing I've heard all year"
 		}
 	]
