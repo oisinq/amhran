@@ -1,6 +1,6 @@
 .card {
-    width: 300px;
-    height: 163px;
+    width: 800px;
+    height: 420px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -16,7 +16,7 @@
     text-align: right;
     font-weight: 300;
     font-style: italic;
-    font-size: 1.3em;
+    font-size: 2.8em;
     margin: 0px 6px 0px 0px;
 }
 
@@ -24,13 +24,13 @@
 .cardSongName {
     text-align: left;
     font-weight: 700;
-    font-size: 1.4em;
+    font-size: 3em;
     margin-left: 06px;
 }
 
 .cardArtistName {
     text-align: left;
     font-weight: 300;
-    font-size: 1.4em;
+    font-size: 3em;
     margin: 0px 0px 4px 6px;
 }
