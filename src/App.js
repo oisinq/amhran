@@ -2,7 +2,6 @@ import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 import trackList from './tracks';
 import Home from './paths/Home/Home';
-import Launch from './components/Launch/Launch';
 import Archive from './paths/Archive/Archive';
 import NoMatch from './paths/NoMatch/NoMatch';
 import BrowserRouter from 'react-router-dom/BrowserRouter';
@@ -26,17 +25,16 @@ class App extends React.Component {
         }
 
         return (
-            <Launch />
-        // <div className="App">
-        //   <BrowserRouter>
-        //       <Switch>
-        //           <Route exact path="/" component={TrackFinder} />
-        //           <Route exact path="/archive" render={(props) => <Archive {...props} tracks={trackList.tracks} />} />
-        //           <Route exact path="/:trackno" component={TrackFinder} />
-        //           <Route component={NoMatch} />
-        //       </Switch>
-        //   </BrowserRouter>
-        // </div>
+        <div className="App">
+          <BrowserRouter>
+              <Switch>
+                  <Route exact path="/" component={TrackFinder} />
+                  <Route exact path="/archive" render={(props) => <Archive {...props} tracks={trackList.tracks} />} />
+                  <Route exact path="/:trackno" component={TrackFinder} />
+                  <Route component={NoMatch} />
+              </Switch>
+          </BrowserRouter>
+        </div>
       );
     }
 }
