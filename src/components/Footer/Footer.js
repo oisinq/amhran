@@ -3,6 +3,7 @@ import './Footer.css';
 import Submissions from '../Submissions/Submissions';
 import Twitter from '../../images/twitter.svg'
 import Facebook from '../../images/facebook.svg'
+import Instagram from '../../images/instagram.svg'
 import Logo from '../Logo/Logo';
 // import Logo from '../../images/logo.svg'
 
@@ -21,6 +22,7 @@ const Footer = () => {
             <div className="socials">
                 <div className="footerElement"><a href="https://twitter.com/amhranIE"><img src={Twitter} alt="Twitter" height="43"></img></a></div>
                 <div className="footerElement"><a href="https://facebook.com/amhranIE"><img src={Facebook} alt="Facebook" height="43"></img></a></div>
+                <div className="footerElement"><a href="https://instagram.com/amhranIE"><img src={Instagram} alt="Instagram" height="43"></img></a></div>
             </div>
         </div>
         <span id="veryBottom">Site by <a href="https://oisin.io">Oisin Quinn</a></span>
