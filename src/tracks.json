@@ -57,6 +57,15 @@
 				"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=4229894392/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/",
 				"image": "006.jpg",
 				"topDesc": "A strong debut single from the instrumental West Ireland band, with both delicate and thunderous moments (but, let's be honest, more thunderous than anything else)"
+			},
+			{
+				"order": "007",
+				"songName": "Take The Wheel (feat. Paul Noonan)",
+				"artistName": "Daithi",
+				"mediaType": "bandcamp",
+				"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=2425345544/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3129662169/transparent=true/",
+				"image": "007.jpg",
+				"topDesc": "A breathtaking track, featuring beautiful vocals from Bell X1's Paul Noonan, that sounds like nothing I've heard all year"
 			}
 	]
 }
