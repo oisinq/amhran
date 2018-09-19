@@ -66,6 +66,16 @@
 				"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=2425345544/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3129662169/transparent=true/",
 				"image": "007.jpg",
 				"topDesc": "A breathtaking track, featuring beautiful vocals from Bell X1's Paul Noonan, that sounds like nothing I've heard all year"
-			}
+			},
+			{
+				"order": "008",
+				"songName": "Don't Hold Your Breath",
+				"artistName": "Soulé",
+				"mediaType": "spotify",
+				"mediaLink": "https://open.spotify.com/embed/track/6v47ejGEFRYzSOBDVMkkdM",
+				"image": "008.jpg",
+				"topDesc": "The latest track from Dublin singer-songwriter Soulé is an infectious pop hit.",
+				"mainDesc": "To be completely honest, Soulé is an artist who has never really captured me, but this new track is the perfect mix of lyrical emotion and a chorus you can't help but dance to. This track deserves to take over the Irish airwaves."
+				}
 	]
 }
