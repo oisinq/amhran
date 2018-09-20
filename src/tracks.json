@@ -75,6 +75,16 @@
 		"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=2425345544/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3129662169/transparent=true/",
 		"image": "008.jpg",
 		"topDesc": "A breathtaking track, featuring beautiful vocals from Bell X1's Paul Noonan, that sounds like nothing I've heard all year"
-	  }
+		},
+		{
+			"order": "009",
+			"songName": "She's A Keeper",
+			"artistName": "Susie Blue",
+			"mediaType": "soundcloud",
+			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/381127469&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+			"image": "009.jpg",
+			"topDesc": "Infectious punk-tinted pop-rock from the talented Derry-based artist",
+      "mainDesc": "I hadn't heard of Susie Blue before about a week ago, but I've started going through her back catalogue these last few days. Her sound isn't overly complicated and reminds me of the 90s/early 00s sound, but everything is executed really well. This track is a really catchy one, I always find it stuck in my head when I least expect. Sidenote: the amount of great music from the Derry/Donegal region is crazy."
+		}
 	]
   }
