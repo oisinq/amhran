@@ -66,6 +66,15 @@
 		"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=2425345544/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3129662169/transparent=true/",
 		"image": "007.jpg",
 		"topDesc": "A breathtaking track, featuring beautiful vocals from Bell X1's Paul Noonan, that sounds like nothing I've heard all year"
+	  },
+	  {
+		"order": "008",
+		"songName": "Don't Hold Your Breath",
+		"artistName": "Soulé",
+		"mediaType": "bandcamp",
+		"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=2425345544/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3129662169/transparent=true/",
+		"image": "008.jpg",
+		"topDesc": "A breathtaking track, featuring beautiful vocals from Bell X1's Paul Noonan, that sounds like nothing I've heard all year"
 	  }
 	]
   }
