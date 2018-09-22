@@ -86,6 +86,16 @@
 					"image": "009.jpg",
 					"topDesc": "Infectious punk-tinted pop-rock from the talented Derry-based artist",
 					"mainDesc": "I hadn't heard of Susie Blue before about a week ago, but I've started going through her back catalogue these last few days. Her sound isn't overly complicated and reminds me of the 90s/early 00s sound, but everything is executed really well. This track is a really catchy one, I always find it stuck in my head when I least expect. Sidenote: the amount of great music from the Derry/Donegal region is crazy."
-	}
+	},
+	{
+			"order": "010",
+			"songName": "We Fell for Miles",
+			"artistName": "TOUCAN",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/0ioU1KUrLCyLiTxlJpBmgF",
+			"image": "010.jpg",
+			"topDesc": "One of the most funky and fun Irish tracks I've heard",
+			"mainDesc": "I love this track a lot. Conor Clancy's vocals are incredibly smooth and the instrumentation is flawless, the production is clean. That \"Like a hot knife through butter\" line just sounds incredibly good, especially just as the drums come back in. It's definitely worth checking out their EP \"TOUCAN\", which is out now."
+}
 	]
 }
