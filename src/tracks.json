@@ -96,6 +96,15 @@
 			"image": "010.jpg",
 			"topDesc": "One of the most funky and fun Irish tracks I've heard",
 			"mainDesc": "I love this track a lot. Conor Clancy's vocals are incredibly smooth and the instrumentation is flawless, the production is clean. That \"Like a hot knife through butter\" line just sounds incredibly good, especially just as the drums come back in. It's definitely worth checking out their EP \"TOUCAN\", which is out now."
-}
+},
+    {
+      "order": "011",
+      "songName": "Ho Chi Minh",
+      "artistName": "Spies",
+      "mediaType": "spotify",
+      "mediaLink": "https://open.spotify.com/embed/track/6FF0xQJ2t2P8SRdGIcbtLk",
+      "image": "011.jpg",
+      "topDesc": "A great upbeat indie pop song that's been stuck in my head all week."
+    }
 	]
 }
