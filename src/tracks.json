@@ -102,69 +102,63 @@
       "songName": "Ho Chi Minh",
       "artistName": "Spies",
       "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/0ioU1KUrLCyLiTxlJpBmgF",
+      "mediaLink": "https://open.spotify.com/embed/track/6FF0xQJ2t2P8SRdGIcbtLk",
       "image": "011.jpg",
-      "topDesc": "011 desc"
+      "topDesc": "A great upbeat indie pop song that's been stuck in my head all week."
     },
     {
       "order": "012",
       "songName": "Honey and Lemons",
       "artistName": "Dry Roasted Peanuts",
-      "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/0ioU1KUrLCyLiTxlJpBmgF",
+      "mediaType": "soundcloud",
+      "mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387459617&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
       "image": "012.jpg",
-      "topDesc": "One of the most funky and fun Irish tracks I've heard",
-      "mainDesc": "I love this track a lot. Conor Clancy's vocals are incredibly smooth and the instrumentation is flawless, the production is clean. That \"Like a hot knife through butter\" line just sounds incredibly good, especially just as the drums come back in. It's definitely worth checking out their EP \"TOUCAN\", which is out now."
-    },
+      "topDesc": "desc"
+		},
     {
       "order": "013",
       "songName": "Stripped Down",
       "artistName": "Molly Sterling",
       "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/0ioU1KUrLCyLiTxlJpBmgF",
+      "mediaLink": "https://open.spotify.com/embed/track/4NNlEZO8SveOn10VpdqUbT",
       "image": "013.jpg",
-      "topDesc": "One of the most funky and fun Irish tracks I've heard",
-      "mainDesc": "I love this track a lot. Conor Clancy's vocals are incredibly smooth and the instrumentation is flawless, the production is clean. That \"Like a hot knife through butter\" line just sounds incredibly good, especially just as the drums come back in. It's definitely worth checking out their EP \"TOUCAN\", which is out now."
-    },
+			"topDesc": "desc"
+		},
     {
       "order": "014",
       "songName": "Automatic",
       "artistName": "True Tides",
       "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/0ioU1KUrLCyLiTxlJpBmgF",
-      "image": "014.jpg",
-      "topDesc": "One of the most funky and fun Irish tracks I've heard",
-      "mainDesc": "I love this track a lot. Conor Clancy's vocals are incredibly smooth and the instrumentation is flawless, the production is clean. That \"Like a hot knife through butter\" line just sounds incredibly good, especially just as the drums come back in. It's definitely worth checking out their EP \"TOUCAN\", which is out now."
+      "mediaLink": "https://open.spotify.com/embed/track/6byppFFxvrHGwef2uAyo7w",
+			"image": "014.jpg",
+			"topDesc": "desc"
     },
     {
       "order": "015",
       "songName": "Love Flush",
       "artistName": "Æ Mak",
-      "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/0ioU1KUrLCyLiTxlJpBmgF",
-      "image": "015.jpg",
-      "topDesc": "One of the most funky and fun Irish tracks I've heard",
-      "mainDesc": "I love this track a lot. Conor Clancy's vocals are incredibly smooth and the instrumentation is flawless, the production is clean. That \"Like a hot knife through butter\" line just sounds incredibly good, especially just as the drums come back in. It's definitely worth checking out their EP \"TOUCAN\", which is out now."
+      "mediaType": "soundcloud",
+      "mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/467158848&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+			"image": "015.jpg",
+			"topDesc": "desc"
     },
     {
       "order": "016",
       "songName": "Wildin'",
       "artistName": "Awkward Z.",
-      "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/0ioU1KUrLCyLiTxlJpBmgF",
-      "image": "016.jpg",
-      "topDesc": "One of the most funky and fun Irish tracks I've heard",
-      "mainDesc": "I love this track a lot. Conor Clancy's vocals are incredibly smooth and the instrumentation is flawless, the production is clean. That \"Like a hot knife through butter\" line just sounds incredibly good, especially just as the drums come back in. It's definitely worth checking out their EP \"TOUCAN\", which is out now."
+      "mediaType": "soundcloud",
+      "mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/473299920&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+			"image": "016.jpg",
+			"topDesc": "desc"
     },
     {
       "order": "017",
       "songName": "Ignorant Infatuation",
       "artistName": "NY5HA",
       "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/0ioU1KUrLCyLiTxlJpBmgF",
-      "image": "017.jpg",
-      "topDesc": "One of the most funky and fun Irish tracks I've heard",
-      "mainDesc": "I love this track a lot. Conor Clancy's vocals are incredibly smooth and the instrumentation is flawless, the production is clean. That \"Like a hot knife through butter\" line just sounds incredibly good, especially just as the drums come back in. It's definitely worth checking out their EP \"TOUCAN\", which is out now."
+      "mediaLink": "https://open.spotify.com/embed/track/38YRinZmwfTuDSHCRxfJwq",
+			"image": "017.jpg",
+			"topDesc": "desc"
     }
   ]
 }
