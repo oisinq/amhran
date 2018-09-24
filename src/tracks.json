@@ -10,7 +10,7 @@
 			"topDesc": "A beautiful, subtlely-progressive track that grows into something magnificent from one of Ireland's best indie rock bands.",
 			"mainDesc": "One of my favourite tracks of the year, from its beautiful start to its powerful buildup and breathtaking ending."
 		},
-		  {
+		{
 			"order": "002",
 			"songName": "Asphyxia",
 			"artistName": "James Bentley",
@@ -19,8 +19,8 @@
 			"image": "002.jpg",
 			"topDesc": "A raw, emotional acoustic track from Cavan singer-songwriter James Bentley's debut EP.",
 			"mainDesc": "From the eerie beginning, to the towering chorus that slowly builds into a very powerful ending, this track is definitely one to check out."
-		  },
-		  {
+		},
+		{
 			"order": "003",
 			"songName": "Date Night (feat. Luka Palm)",
 			"artistName": "Kojaque",
@@ -29,8 +29,8 @@
 			"image": "003.jpg",
 			"topDesc": "The Irish hip-hop scene has seen a resurgence lately, breaking into the mainstream with increasingly high festival-billings and a larger audience than ever.",
 			"mainDesc": "But one artist stands out amongst the rest - Kojaque. I first discovered Kojaque through his viral hit \"Midnight Flower\", but it was with his 2018 project \"Deli Daydreams\" that he cemented himself in the scene as the most creative and talented hip-hop artist in the country. \"Deli Daydreams\" was one of my favourite projects of the year, and \"Date Night\" seems like the perfect follow-up. To me it nearly feels like a victory lap, with both Kojaque and Luka Palm dripping with confidence after their new-found success. Kojaque's flow is completely flawless, and sounds like an absolute pro. Luka Palm weaves in and around Kojaque throughout the track and is a great addition. Kean Kavanagh's production is great with a commanding bassline and a late switch-up, which Kojaque rides perfectly. With a track like this, I can't wait to see what Soft Boy Records come out with next."
-		  },
-		  {
+		},
+		{
 			"order": "004",
 			"songName": "Watermelon Sugar (Alcohol)",
 			"artistName": "Sea Pinks",
@@ -38,8 +38,8 @@
 			"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=761596625/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2938587260/transparent=true/",
 			"image": "004.jpg",
 			"topDesc": "A dreamy indie pop track from the Belfast band's upcoming 7th album."
-		  },
-		  {
+		},
+		{
 			"order": "005",
 			"songName": "You Never Call (James Vincent McMorrow Remix)",
 			"artistName": "Saint Sister",
@@ -48,46 +48,46 @@
 			"image": "005.jpg",
 			"topDesc": "This stunning remix completely transforms Saint Sister's powerful song into something completely unique.",
 			"mainDesc": "I've been planning to feature Saint Sister's latest single on this website for a few weeks now, because it's an incredibly beautiful song in its own right. But when this remix by James Vincent McMorrow came out a few days ago, I was really impressed by how he completely made the song his own, while using a vocal sample from the original track throughout. It transforms the original, more serious song into something completely different, in both sound and mood. I loved James Vincent McMorrow's latest single \"Me and My Friends\", so now I'm really hyped to see what he (and Saint Sister!) comes out with next."
-			},
-			{
-				"order": "006",
-				"songName": "You're Looking a Little Rough Around the Edges",
-				"artistName": "Bokotono",
-				"mediaType": "bandcamp",
-				"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=4229894392/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/",
-				"image": "006.jpg",
-				"topDesc": "A strong debut single from the instrumental West Ireland band, with both delicate and thunderous moments (but, let's be honest, more thunderous than anything else)"
-			},
-			{
-				"order": "007",
-				"songName": "Take The Wheel (feat. Paul Noonan)",
-				"artistName": "Daithi",
-				"mediaType": "bandcamp",
-				"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=2425345544/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3129662169/transparent=true/",
-				"image": "007.jpg",
-				"topDesc": "A breathtaking track, featuring beautiful vocals from Bell X1's Paul Noonan, that sounds like nothing I've heard all year"
-			},
-			{
-				"order": "008",
-				"songName": "Don't Hold Your Breath",
-				"artistName": "Soulé",
-				"mediaType": "spotify",
-				"mediaLink": "https://open.spotify.com/embed/track/6v47ejGEFRYzSOBDVMkkdM",
-				"image": "008.jpg",
-				"topDesc": "The latest track from Dublin singer-songwriter Soulé is an infectious pop hit.",
-				"mainDesc": "To be completely honest, Soulé is an artist who has never really captured me, but this new track is the perfect mix of lyrical emotion and a chorus you can't help but dance to. This track deserves to take over the Irish airwaves."
-				},
-				{
-					"order": "009",
-					"songName": "She's A Keeper",
-					"artistName": "Susie Blue",
-					"mediaType": "soundcloud",
-					"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/381127469&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
-					"image": "009.jpg",
-					"topDesc": "Infectious punk-tinted pop-rock from the talented Derry-based artist",
-					"mainDesc": "I hadn't heard of Susie Blue before about a week ago, but I've started going through her back catalogue these last few days. Her sound isn't overly complicated and reminds me of the 90s/early 00s sound, but everything is executed really well. This track is a really catchy one, I always find it stuck in my head when I least expect. Sidenote: the amount of great music from the Derry/Donegal region is crazy."
-	},
-	{
+		},
+		{
+			"order": "006",
+			"songName": "You're Looking a Little Rough Around the Edges",
+			"artistName": "Bokotono",
+			"mediaType": "bandcamp",
+			"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=4229894392/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/",
+			"image": "006.jpg",
+			"topDesc": "A strong debut single from the instrumental West Ireland band, with both delicate and thunderous moments (but, let's be honest, more thunderous than anything else)"
+		},
+		{
+			"order": "007",
+			"songName": "Take The Wheel (feat. Paul Noonan)",
+			"artistName": "Daithi",
+			"mediaType": "bandcamp",
+			"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=2425345544/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3129662169/transparent=true/",
+			"image": "007.jpg",
+			"topDesc": "A breathtaking track, featuring beautiful vocals from Bell X1's Paul Noonan, that sounds like nothing I've heard all year"
+		},
+		{
+			"order": "008",
+			"songName": "Don't Hold Your Breath",
+			"artistName": "Soulé",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/6v47ejGEFRYzSOBDVMkkdM",
+			"image": "008.jpg",
+			"topDesc": "The latest track from Dublin singer-songwriter Soulé is an infectious pop hit.",
+			"mainDesc": "To be completely honest, Soulé is an artist who has never really captured me, but this new track is the perfect mix of lyrical emotion and a chorus you can't help but dance to. This track deserves to take over the Irish airwaves."
+		},
+		{
+			"order": "009",
+			"songName": "She's A Keeper",
+			"artistName": "Susie Blue",
+			"mediaType": "soundcloud",
+			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/381127469&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+			"image": "009.jpg",
+			"topDesc": "Infectious punk-tinted pop-rock from the talented Derry-based artist",
+			"mainDesc": "I hadn't heard of Susie Blue before about a week ago, but I've started going through her back catalogue these last few days. Her sound isn't overly complicated and reminds me of the 90s/early 00s sound, but everything is executed really well. This track is a really catchy one, I always find it stuck in my head when I least expect. Sidenote: the amount of great music from the Derry/Donegal region is crazy."
+		},
+		{
 			"order": "010",
 			"songName": "We Fell for Miles",
 			"artistName": "TOUCAN",
@@ -96,15 +96,25 @@
 			"image": "010.jpg",
 			"topDesc": "One of the most funky and fun Irish tracks I've heard",
 			"mainDesc": "I love this track a lot. Conor Clancy's vocals are incredibly smooth and the instrumentation is flawless, the production is clean. That \"Like a hot knife through butter\" line just sounds incredibly good, especially just as the drums come back in. It's definitely worth checking out their EP \"TOUCAN\", which is out now."
-},
-    {
-      "order": "011",
-      "songName": "Ho Chi Minh",
-      "artistName": "Spies",
-      "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/6FF0xQJ2t2P8SRdGIcbtLk",
-      "image": "011.jpg",
-      "topDesc": "A great upbeat indie pop song that's been stuck in my head all week."
-    }
+		},
+		{
+			"order": "011",
+			"songName": "Ho Chi Minh",
+			"artistName": "Spies",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/6FF0xQJ2t2P8SRdGIcbtLk",
+			"image": "011.jpg",
+			"topDesc": "A great upbeat indie pop song that's been stuck in my head all week."
+		},
+		{
+			"order": "012",
+			"songName": "Honey and Lemons",
+			"artistName": "Dry Roasted Peanuts",
+			"mediaType": "soundcloud",
+			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387459617&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+			"image": "012.jpg",
+			"topDesc": "When a song starts with the line \"Tell me about the time you tried to kill yourself\", you know you're in for a journey.",
+			"mainDesc": "I really like this song. A lot. Maybe it's the barebones bedroom aesthetic. Maybe it's the quirky and sarcastic lines like \"I tried to be subtle, but I'm glad, really, I'm glad that you're alive\" and \"What your grandfather did for the Soviets, well, he was only taking orders, I suppose\", both of which remind me a bit of Car Seat Headrest. It's probably a combination of all these things. This is a sad song about a troubled person, that's brightened up with some great dry humour that gives the song a personality of its own. From what I can see, this group disbanded earlier this year, which is a shame. Hopefully we'll hear great things like this from its members in the future."
+		}
 	]
 }
