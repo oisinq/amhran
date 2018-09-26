@@ -124,6 +124,15 @@
 			"image": "013.jpg",
 			"topDesc": "A powerful and stunning piece from one of Ireland's most exciting new singer-songwriters.",
 			"mainDesc": "I'm not normally a big fan of the typical singer-songwriter sound, but Molly Sterling is something special. Her voice is really unique and you can hear the emotion pouring out in this track. The production is minimalistic, but as more and more instrumentation gets added, the song feels more and more powerful, in a way that never sounds tired or cliche. I keep coming back to this one, and if you give it a listen, I don't think you'll be able to blame me."
+		},
+		{
+		  "order": "014",
+		  "songName": "Automatic",
+		  "artistName": "True Tides",
+		  "mediaType": "spotify",
+		  "mediaLink": "https://open.spotify.com/embed/track/6byppFFxvrHGwef2uAyo7w",
+		  "image": "014.jpg",
+		  "topDesc": "Infectious pop track from the three Cork brothers. It's simple, it's wholesome and it's really good."
 		}
 	]
 }
