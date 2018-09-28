@@ -142,6 +142,16 @@
 		  "mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/467158848&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
 		"image": "015.jpg",
 		"topDesc": "A really unique and artistic pop track with a minimalist start, leading to a booming chorus"
+		},
+		{
+		  "order": "016",
+		  "songName": "Wildin'",
+		  "artistName": "Awkward Z.",
+		  "mediaType": "soundcloud",
+		  "mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/473299920&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+		"image": "016.jpg",
+		"topDesc": "A great feel-good hip-hop track that's bringing a bit of summer into these chilly nights.",
+		"mainDesc": "I'm not sure how I found this track, but it's really good. It reminds me a bit of Devastated by Joey Bada$$, with a really peppy beat that Awkward Z. sounds perfect over. Definitely looking forward to what else this guy comes out with next. If you're heading to Hard Working Class Heroes this weekend (and I wish I was...), definitely check this guy out."
 		}
 	]
 }
