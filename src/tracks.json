@@ -162,6 +162,16 @@
 		  "image": "017.jpg",
 		  "topDesc": "A compelling song featuring a soulful vocal performance, beautiful vocal harmonies and a very catchy hook.",
 		  "mainDesc": "This track sounds really familiar to me, but I'm not sure how. The hook feels super familiar, but I've no idea why. Nonetheless, it's a really good song. It looks like the group is on hiatus currently, but I'm sure the future's bright for this group of musicians."
+		},
+		{
+		  "order": "018",
+		  "songName": "Moodswings",
+		  "artistName": "Daire Patel",
+		  "mediaType": "soundcloud",
+		  "mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/448020330&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+		  "image": "018.jpg",
+		  "topDesc": "Short but sweet trap song over a beautiful dreamy beat.",
+		  "mainDesc": "Daire Patel is the first Irish guy I've come across who can do the whole new-wave Soundcloud sound properly. He floats over the beat like one of the greats, and reminds me a bit of Uzi mixed with some Juice WRLD. Really looking forward to what else he comes out with."
 		}
 	]
 }
