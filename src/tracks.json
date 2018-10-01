@@ -172,6 +172,15 @@
 		  "image": "018.jpg",
 		  "topDesc": "Short but sweet trap song over a beautiful dreamy beat.",
 		  "mainDesc": "Daire Patel is the first Irish guy I've come across who can do the whole new-wave Soundcloud sound properly. He floats over the beat like one of the greats, and reminds me a bit of Uzi mixed with some Juice WRLD. Really looking forward to what else he comes out with."
+		},
+		{
+		  "order": "019",
+		  "songName": "Get Worse",
+		  "artistName": "FIELDS",
+		  "mediaType": "spotify",
+		  "mediaLink": "https://open.spotify.com/embed/track/0zYVTzBzoE1D1lEK7Yqc0D",
+				"image": "019.jpg",
+				"topDesc": "A powerful indie rock track that tackles impostor syndrome elegantly."
 		}
 	]
 }
