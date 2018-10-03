@@ -191,6 +191,16 @@
 				  "image": "020.jpg",
 			"topDesc": "A really fun post punk track that continually impresses on every turn.",
 			"mainDesc": "I came across this one on a playlist for the HWCH 2018, and I was really impressed. It starts off strong with a catchy riff, witty lyrics and ends with a really satisfying ending that caught me off guard a bit. Musically, it reminds me of Otherkin a little bit, but then the song will take a new creative turn and impress me yet again. These guys definitely aren't using every punk trick in the book, and I'm looking forward to hearing more from them."
-		  }
+		  },
+    {
+      "order": "021",
+      "songName": "Tired Eyes",
+      "artistName": "Arvo Party feat. LARKS",
+      "mediaType": "spotify",
+      "mediaLink": "https://open.spotify.com/embed/track/41AuCATbNNqyVZjDQFBioU",
+	  "image": "021.jpg",
+	  "topDesc": "Excellent electronic track that has real beauty in its subtlety.",
+	  "mainDesc": "The vocal feature from LARKS is really top notch too. Tired Eyes' latest album \"II\" is out now, and I'm gonna check it out as soon as I can."
+    }
 	]
 }
