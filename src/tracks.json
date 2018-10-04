@@ -201,6 +201,16 @@
 	  "image": "021.jpg",
 	  "topDesc": "Excellent electronic track that has real beauty in its subtlety.",
 	  "mainDesc": "The vocal feature from LARKS is really top notch too. Tired Eyes' latest album \"II\" is out now, and I'm gonna check it out as soon as I can."
+    },
+    {
+      "order": "022",
+      "songName": "Arcasia",
+      "artistName": "In Their Thousands",
+      "mediaType": "spotify",
+      "mediaLink": "https://open.spotify.com/embed/track/7CSRAWX0mCU8c0cIFzikyM",
+			"image": "022.jpg",
+			"topDesc": "A powerful track from the promising Donegal band with some really chilling acapella moments.",
+			"mainDesc": "My friend Darragh introduced me to guys through their song The Pattern. I thought they were alright at the start, but they've grown on me a lot. I love how this track gradually adds some electronic components, it's a really progressive sound. They've got an extended EP/album of old tracks up on Spotify now, but they've a brand new album coming out soon (hopefully). Definitely worth checking out."
     }
 	]
 }
