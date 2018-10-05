@@ -115,7 +115,8 @@
 			"image": "012.jpg",
 			"topDesc": "When a song starts with the line \"Tell me about the time you tried to kill yourself\", you know you're in for a journey.",
 			"mainDesc": "I really like this song. A lot. Maybe it's the barebones bedroom aesthetic. Maybe it's the quirky and sarcastic lines like \"I tried to be subtle, but I'm glad, really, I'm glad that you're alive\" and \"What your grandfather did for the Soviets, well, he was only taking orders, I suppose\", both of which remind me a bit of Car Seat Headrest. It's probably a combination of all these things. This is a sad song about a troubled person, that's brightened up with some great dry humour that gives the song a personality of its own. From what I can see, this group disbanded earlier this year, which is a shame. Hopefully we'll hear great things like this from its members in the future."
-		},{
+		},
+		{
 			"order": "013",
 			"songName": "Stripped Down",
 			"artistName": "Molly Sterling",
@@ -126,61 +127,61 @@
 			"mainDesc": "I'm not normally a big fan of the typical singer-songwriter sound, but Molly Sterling is something special. Her voice is really unique and you can hear the emotion pouring out in this track. The production is minimalistic, but as more and more instrumentation gets added, the song feels more and more powerful, in a way that never sounds tired or cliche. I keep coming back to this one, and if you give it a listen, I don't think you'll be able to blame me."
 		},
 		{
-		  "order": "014",
-		  "songName": "Automatic",
-		  "artistName": "True Tides",
-		  "mediaType": "spotify",
-		  "mediaLink": "https://open.spotify.com/embed/track/6byppFFxvrHGwef2uAyo7w",
-		  "image": "014.jpg",
-		  "topDesc": "Infectious pop track from the three Cork brothers. It's simple, it's wholesome and it's just really good."
+			"order": "014",
+			"songName": "Automatic",
+			"artistName": "True Tides",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/6byppFFxvrHGwef2uAyo7w",
+			"image": "014.jpg",
+			"topDesc": "Infectious pop track from the three Cork brothers. It's simple, it's wholesome and it's just really good."
 		},
 		{
-		  "order": "015",
-		  "songName": "Love Flush",
-		  "artistName": "Æ Mak",
-		  "mediaType": "soundcloud",
-		  "mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/467158848&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
-		  "image": "015.jpg",
-		  "topDesc": "A really unique and artistic pop track with a minimalist start, leading to a booming chorus"
+			"order": "015",
+			"songName": "Love Flush",
+			"artistName": "Æ Mak",
+			"mediaType": "soundcloud",
+			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/467158848&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+			"image": "015.jpg",
+			"topDesc": "A really unique and artistic pop track with a minimalist start, leading to a booming chorus"
 		},
 		{
-		  "order": "016",
-		  "songName": "Wildin'",
-		  "artistName": "Awkward Z.",
-		  "mediaType": "soundcloud",
-		  "mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/473299920&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
-		  "image": "016.jpg",
-		  "topDesc": "A great feel-good hip-hop track that's bringing a bit of summer into these chilly nights.",
-		  "mainDesc": "I'm not sure how I found this track, but it's really good. It reminds me a bit of Devastated by Joey Bada$$, with a really peppy beat that Awkward Z. sounds perfect over. Definitely looking forward to what else this guy comes out with next. If you're heading to Hard Working Class Heroes this weekend (and I wish I was...), definitely check this guy out."
+			"order": "016",
+			"songName": "Wildin'",
+			"artistName": "Awkward Z.",
+			"mediaType": "soundcloud",
+			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/473299920&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+			"image": "016.jpg",
+			"topDesc": "A great feel-good hip-hop track that's bringing a bit of summer into these chilly nights.",
+			"mainDesc": "I'm not sure how I found this track, but it's really good. It reminds me a bit of Devastated by Joey Bada$$, with a really peppy beat that Awkward Z. sounds perfect over. Definitely looking forward to what else this guy comes out with next. If you're heading to Hard Working Class Heroes this weekend (and I wish I was...), definitely check this guy out."
 		},
 		{
-		  "order": "017",
-		  "songName": "Ignorant Infatuation",
-		  "artistName": "NY5HA",
-		  "mediaType": "spotify",
-		  "mediaLink": "https://open.spotify.com/embed/track/38YRinZmwfTuDSHCRxfJwq",
-		  "image": "017.jpg",
-		  "topDesc": "A compelling song featuring a soulful vocal performance, beautiful vocal harmonies and a very catchy hook.",
-		  "mainDesc": "This track sounds really familiar to me, but I'm not sure how. The hook feels super familiar, but I've no idea why. Nonetheless, it's a really good song. It looks like the group is on hiatus currently, but I'm sure the future's bright for this group of musicians."
+			"order": "017",
+			"songName": "Ignorant Infatuation",
+			"artistName": "NY5HA",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/38YRinZmwfTuDSHCRxfJwq",
+			"image": "017.jpg",
+			"topDesc": "A compelling song featuring a soulful vocal performance, beautiful vocal harmonies and a very catchy hook.",
+			"mainDesc": "This track sounds really familiar to me, but I'm not sure how. The hook feels super familiar, but I've no idea why. Nonetheless, it's a really good song. It looks like the group is on hiatus currently, but I'm sure the future's bright for this group of musicians."
 		},
 		{
-		  "order": "018",
-		  "songName": "Moodswings",
-		  "artistName": "Daire Patel",
-		  "mediaType": "soundcloud",
-		  "mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/448020330&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
-		  "image": "018.jpg",
-		  "topDesc": "Short but sweet trap song over a beautiful dreamy beat.",
-		  "mainDesc": "Daire Patel is the first Irish guy I've come across who can do the whole new-wave Soundcloud sound properly. He floats over the beat like one of the greats, and reminds me a bit of Uzi mixed with some Juice WRLD. Really looking forward to what else he comes out with."
+			"order": "018",
+			"songName": "Moodswings",
+			"artistName": "Daire Patel",
+			"mediaType": "soundcloud",
+			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/448020330&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+			"image": "018.jpg",
+			"topDesc": "Short but sweet trap song over a beautiful dreamy beat.",
+			"mainDesc": "Daire Patel is the first Irish guy I've come across who can do the whole new-wave Soundcloud sound properly. He floats over the beat like one of the greats, and reminds me a bit of Uzi mixed with some Juice WRLD. Really looking forward to what else he comes out with."
 		},
 		{
-		  "order": "019",
-		  "songName": "Get Worse",
-		  "artistName": "FIELDS",
-		  "mediaType": "spotify",
-		  "mediaLink": "https://open.spotify.com/embed/track/0zYVTzBzoE1D1lEK7Yqc0D",
-				"image": "019.jpg",
-				"topDesc": "A powerful indie rock track that tackles impostor syndrome elegantly."
+			"order": "019",
+			"songName": "Get Worse",
+			"artistName": "FIELDS",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/0zYVTzBzoE1D1lEK7Yqc0D",
+			"image": "019.jpg",
+			"topDesc": "A powerful indie rock track that tackles impostor syndrome elegantly."
 		},
 		{
 			"order": "020",
@@ -188,29 +189,39 @@
 			"artistName": "Silverbacks",
 			"mediaType": "soundcloud",
 			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/425262333&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
-				  "image": "020.jpg",
+			"image": "020.jpg",
 			"topDesc": "A really fun post punk track that continually impresses on every turn.",
 			"mainDesc": "I came across this one on a playlist for the HWCH 2018, and I was really impressed. It starts off strong with a catchy riff, witty lyrics and ends with a really satisfying ending that caught me off guard a bit. Musically, it reminds me of Otherkin a little bit, but then the song will take a new creative turn and impress me yet again. These guys definitely aren't using every punk trick in the book, and I'm looking forward to hearing more from them."
-		  },
-    {
-      "order": "021",
-      "songName": "Tired Eyes",
-      "artistName": "Arvo Party feat. LARKS",
-      "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/41AuCATbNNqyVZjDQFBioU",
-	  "image": "021.jpg",
-	  "topDesc": "Excellent electronic track that has real beauty in its subtlety.",
-	  "mainDesc": "The vocal feature from LARKS is really top notch too. Tired Eyes' latest album \"II\" is out now, and I'm gonna check it out as soon as I can."
-    },
-    {
-      "order": "022",
-      "songName": "Acrasia",
-      "artistName": "In Their Thousands",
-      "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/7CSRAWX0mCU8c0cIFzikyM",
+		},
+		{
+			"order": "021",
+			"songName": "Tired Eyes",
+			"artistName": "Arvo Party feat. LARKS",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/41AuCATbNNqyVZjDQFBioU",
+			"image": "021.jpg",
+			"topDesc": "Excellent electronic track that has real beauty in its subtlety.",
+			"mainDesc": "The vocal feature from LARKS is really top notch too. Tired Eyes' latest album \"II\" is out now, and I'm gonna check it out as soon as I can."
+		},
+		{
+			"order": "022",
+			"songName": "Acrasia",
+			"artistName": "In Their Thousands",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/7CSRAWX0mCU8c0cIFzikyM",
 			"image": "022.jpg",
 			"topDesc": "A powerful track from the promising Donegal band with some really chilling acapella moments.",
 			"mainDesc": "My friend Darragh introduced me to guys through their song The Pattern. I thought they were alright at the start, but they've grown on me a lot. I love how this track gradually adds some electronic components, it's a really progressive sound. They've got an extended EP/album of old tracks up on Spotify now, but they've a brand new album coming out soon (hopefully). Definitely worth checking out."
-    }
+		},
+		{
+			"order": "023",
+			"songName": "Gasmask + Happiness",
+			"artistName": "Automatic Blue",
+			"mediaType": "soundcloud",
+			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/416293788&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+			"image": "023.jpg",
+			"topDesc": "A really unique electronic track with fantastically morphed vocals.",
+			"mainDesc": "This guy is part of Hausu Records down in Cork. They seem to be a really exciting group with loads of talented artists. I'd definitely recommend checking out their full line-up of artists."
+		}
 	]
 }
