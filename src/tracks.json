@@ -1,209 +1,281 @@
 {
-  "tracks": [
-    {
-      "order": "001",
-      "songName": "Rainy Night In Slomo",
-      "artistName": "We Cut Corners",
-      "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/2wq2KG5bc2tjXecYpfcbzT",
-      "image": "001.jpg",
-      "topDesc": "A beautiful, subtlely-progressive track that grows into something magnificent from one of Ireland's best indie rock bands.",
-      "mainDesc": "One of my favourite tracks of the year, from its beautiful start to its powerful buildup and breathtaking ending."
-    },
-    {
-      "order": "002",
-      "songName": "Asphyxia",
-      "artistName": "James Bentley",
-      "mediaType": "bandcamp",
-      "mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=791513425/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1742668141/transparent=true/",
-      "image": "002.jpg",
-      "topDesc": "A raw, emotional acoustic track from Cavan singer-songwriter James Bentley's debut EP.",
-      "mainDesc": "From the eerie beginning, to the towering chrous that slowly builds into a very powerful ending, this track is definitely one to check out."
-    },
-    {
-      "order": "003",
-      "songName": "Date Night (feat. Luka Palm)",
-      "artistName": "Kojaque",
-      "mediaType": "soundcloud",
-      "mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/468139767&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
-      "image": "003.jpg",
-      "topDesc": "The Irish hip-hop scene has seen a resurgence lately, breaking into the mainstream with increasingly high festival-billings and a larger audience than ever.",
-      "mainDesc": "But one artist stands out amongst the rest - Kojaque. I first discovered Kojaque through his viral hit \"Midnight Flower\", but it was with his 2018 project \"Deli Daydreams\" that he cemented himself in the scene as the most creative and talented hip-hop artist in the country. \"Deli Daydreams\" was one of my favourite projects of the year, and \"Date Night\" seems like the perfect follow-up. To me it nearly feels like a victory lap, with both Kojaque and Luka Palm dripping with confidence after their new-found success. Kojaque's flow is completely flawless, and sounds like an absolute pro. Luka Palm weaves in and around Kojaque throughout the track and is a great addition. Kean Kavanagh's production is great with a commanding bassline and a late switch-up, which Kojaque rides perfectly. With a track like this, I can't wait to see what Soft Boy Records come out with next."
-    },
-    {
-      "order": "004",
-      "songName": "Watermelon Sugar (Alcohol)",
-      "artistName": "Sea Pinks",
-      "mediaType": "bandcamp",
-      "mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=761596625/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2938587260/transparent=true/",
-      "image": "004.jpg",
-      "topDesc": "A dreamy indie pop track from the Belfast band's upcoming 7th album."
-    },
-    {
-      "order": "005",
-      "songName": "You Never Call",
-      "artistName": "Saint Sister",
-      "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/1BeVSyWNpVtfpVy7UwWXa2",
-      "image": "005.jpg",
-      "topDesc": "The latest track from one of Ireland's best live acts, starting slow and vulnerable before bursting into a powerful chorus.",
-      "mainDesc": "Their debut album \"Shape Of Silence\" will be released on October 5th."
-    },
-    {
-      "order": "006",
-      "songName": "You're Looking a Little Rough Around the Edges",
-      "artistName": "Bokotono",
-      "mediaType": "bandcamp",
-      "mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=4229894392/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/",
-      "image": "006.jpg",
-      "topDesc": "A strong debut single from the instrumental West Ireland band, with both delicate and thunderous moments (but, let's be honest, more thunderous than anything else)"
-    },
-    {
-      "order": "007",
-      "songName": "Take The Wheel (feat. Paul Noonan)",
-      "artistName": "Daithi",
-      "mediaType": "bandcamp",
-      "mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=2425345544/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3129662169/transparent=true/",
-      "image": "007.jpg",
-      "topDesc": "A breathtaking track, featuring beautiful vocals from Bell X1's Paul Noonan, that sounds like nothing I've heard all year"
-    },
-    {
-      "order": "008",
-      "songName": "Don't Hold Your Breath",
-      "artistName": "Soulé",
-      "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/6v47ejGEFRYzSOBDVMkkdM",
-      "image": "008.jpg",
-      "topDesc": "The latest track from Dublin singer-songwriter Soulé is an infectious pop hit.",
-      "mainDesc": "To be completely honest, Soulé is an artist who has never really captured me, but this new track is the perfect mix of lyrical emotion and a chorus you can't help but dance to. This track deserves to take over the Irish airwaves."
-    },
-    {
-      "order": "009",
-      "songName": "She's A Keeper",
-      "artistName": "Susie Blue",
-      "mediaType": "soundcloud",
-      "mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/381127469&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
-      "image": "009.jpg",
-      "topDesc": "Infectious punk-tinted pop-rock from the talented Derry-based artist",
-      "mainDesc": "I hadn't heard of Susie Blue before about a week ago, but I've started going through her back catalogue these last few days. Her sound isn't overly complicated and reminds me of the 90s/early 00s sound, but everything is executed really well. This track is a really catchy one, I always find it stuck in my head when I least expect. Sidenote: the amount of great music from the Derry/Donegal region is crazy."
-    },
-    {
-      "order": "010",
-      "songName": "We Fell for Miles",
-      "artistName": "TOUCAN",
-      "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/0ioU1KUrLCyLiTxlJpBmgF",
-      "image": "010.jpg",
-      "topDesc": "One of the most funky and fun Irish tracks I've heard",
-      "mainDesc": "I love this track a lot. Conor Clancy's vocals are incredibly smooth and the instrumentation is flawless, the production is clean. That \"Like a hot knife through butter\" line just sounds incredibly good, especially just as the drums come back in. It's definitely worth checking out their EP \"TOUCAN\", which is out now."
-    },
-    {
-      "order": "011",
-      "songName": "Ho Chi Minh",
-      "artistName": "Spies",
-      "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/6FF0xQJ2t2P8SRdGIcbtLk",
-      "image": "011.jpg",
-      "topDesc": "A great upbeat indie pop song that's been stuck in my head all week."
-    },
-    {
-      "order": "012",
-      "songName": "Honey and Lemons",
-      "artistName": "Dry Roasted Peanuts",
-      "mediaType": "soundcloud",
-      "mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387459617&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
-      "image": "012.jpg",
-      "topDesc": "desc"
+	"tracks": [
+		{
+			"order": "001",
+			"songName": "Rainy Night In Slomo",
+			"artistName": "We Cut Corners",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/2wq2KG5bc2tjXecYpfcbzT",
+			"image": "001.jpg",
+			"topDesc": "A beautiful, subtlely-progressive track that grows into something magnificent from one of Ireland's best indie rock bands.",
+			"mainDesc": "One of my favourite tracks of the year, from its beautiful start to its powerful buildup and breathtaking ending."
 		},
-    {
-      "order": "013",
-      "songName": "Stripped Down",
-      "artistName": "Molly Sterling",
-      "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/4NNlEZO8SveOn10VpdqUbT",
-      "image": "013.jpg",
-			"topDesc": "desc"
+		{
+			"order": "002",
+			"songName": "Asphyxia",
+			"artistName": "James Bentley",
+			"mediaType": "bandcamp",
+			"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=791513425/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1742668141/transparent=true/",
+			"image": "002.jpg",
+			"topDesc": "A raw, emotional acoustic track from Cavan singer-songwriter James Bentley's debut EP.",
+			"mainDesc": "From the eerie beginning, to the towering chorus that slowly builds into a very powerful ending, this track is definitely one to check out."
 		},
-    {
-      "order": "014",
-      "songName": "Automatic",
-      "artistName": "True Tides",
-      "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/6byppFFxvrHGwef2uAyo7w",
+		{
+			"order": "003",
+			"songName": "Date Night (feat. Luka Palm)",
+			"artistName": "Kojaque",
+			"mediaType": "soundcloud",
+			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/468139767&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+			"image": "003.jpg",
+			"topDesc": "The Irish hip-hop scene has seen a resurgence lately, breaking into the mainstream with increasingly high festival-billings and a larger audience than ever.",
+			"mainDesc": "But one artist stands out amongst the rest - Kojaque. I first discovered Kojaque through his viral hit \"Midnight Flower\", but it was with his 2018 project \"Deli Daydreams\" that he cemented himself in the scene as the most creative and talented hip-hop artist in the country. \"Deli Daydreams\" was one of my favourite projects of the year, and \"Date Night\" seems like the perfect follow-up. To me it nearly feels like a victory lap, with both Kojaque and Luka Palm dripping with confidence after their new-found success. Kojaque's flow is completely flawless, and sounds like an absolute pro. Luka Palm weaves in and around Kojaque throughout the track and is a great addition. Kean Kavanagh's production is great with a commanding bassline and a late switch-up, which Kojaque rides perfectly. With a track like this, I can't wait to see what Soft Boy Records come out with next."
+		},
+		{
+			"order": "004",
+			"songName": "Watermelon Sugar (Alcohol)",
+			"artistName": "Sea Pinks",
+			"mediaType": "bandcamp",
+			"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=761596625/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2938587260/transparent=true/",
+			"image": "004.jpg",
+			"topDesc": "A dreamy indie pop track from the Belfast band's upcoming 7th album."
+		},
+		{
+			"order": "005",
+			"songName": "You Never Call (James Vincent McMorrow Remix)",
+			"artistName": "Saint Sister",
+			"mediaType": "bandcamp",
+			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/487994625&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+			"image": "005.jpg",
+			"topDesc": "This stunning remix completely transforms Saint Sister's powerful song into something completely unique.",
+			"mainDesc": "I've been planning to feature Saint Sister's latest single on this website for a few weeks now, because it's an incredibly beautiful song in its own right. But when this remix by James Vincent McMorrow came out a few days ago, I was really impressed by how he completely made the song his own, while using a vocal sample from the original track throughout. It transforms the original, more serious song into something completely different, in both sound and mood. I loved James Vincent McMorrow's latest single \"Me and My Friends\", so now I'm really hyped to see what he (and Saint Sister!) comes out with next."
+		},
+		{
+			"order": "006",
+			"songName": "You're Looking a Little Rough Around the Edges",
+			"artistName": "Bokotono",
+			"mediaType": "bandcamp",
+			"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=4229894392/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/",
+			"image": "006.jpg",
+			"topDesc": "A strong debut single from the instrumental West Ireland band, with both delicate and thunderous moments (but, let's be honest, more thunderous than anything else)"
+		},
+		{
+			"order": "007",
+			"songName": "Take The Wheel (feat. Paul Noonan)",
+			"artistName": "Daithi",
+			"mediaType": "bandcamp",
+			"mediaLink": "https://bandcamp.com/EmbeddedPlayer/album=2425345544/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3129662169/transparent=true/",
+			"image": "007.jpg",
+			"topDesc": "A breathtaking track, featuring beautiful vocals from Bell X1's Paul Noonan, that sounds like nothing I've heard all year"
+		},
+		{
+			"order": "008",
+			"songName": "Don't Hold Your Breath",
+			"artistName": "Soulé",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/6v47ejGEFRYzSOBDVMkkdM",
+			"image": "008.jpg",
+			"topDesc": "The latest track from Dublin singer-songwriter Soulé is an infectious pop hit.",
+			"mainDesc": "To be completely honest, Soulé is an artist who has never really captured me, but this new track is the perfect mix of lyrical emotion and a chorus you can't help but dance to. This track deserves to take over the Irish airwaves."
+		},
+		{
+			"order": "009",
+			"songName": "She's A Keeper",
+			"artistName": "Susie Blue",
+			"mediaType": "soundcloud",
+			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/381127469&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+			"image": "009.jpg",
+			"topDesc": "Infectious punk-tinted pop-rock from the talented Derry-based artist",
+			"mainDesc": "I hadn't heard of Susie Blue before about a week ago, but I've started going through her back catalogue these last few days. Her sound isn't overly complicated and reminds me of the 90s/early 00s sound, but everything is executed really well. This track is a really catchy one, I always find it stuck in my head when I least expect. Sidenote: the amount of great music from the Derry/Donegal region is crazy."
+		},
+		{
+			"order": "010",
+			"songName": "We Fell for Miles",
+			"artistName": "TOUCAN",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/0ioU1KUrLCyLiTxlJpBmgF",
+			"image": "010.jpg",
+			"topDesc": "One of the most funky and fun Irish tracks I've heard",
+			"mainDesc": "I love this track a lot. Conor Clancy's vocals are incredibly smooth and the instrumentation is flawless, the production is clean. That \"Like a hot knife through butter\" line just sounds incredibly good, especially just as the drums come back in. It's definitely worth checking out their EP \"TOUCAN\", which is out now."
+		},
+		{
+			"order": "011",
+			"songName": "Ho Chi Minh",
+			"artistName": "Spies",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/6FF0xQJ2t2P8SRdGIcbtLk",
+			"image": "011.jpg",
+			"topDesc": "A great upbeat indie pop song that's been stuck in my head all week."
+		},
+		{
+			"order": "012",
+			"songName": "Honey and Lemons",
+			"artistName": "Dry Roasted Peanuts",
+			"mediaType": "soundcloud",
+			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387459617&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+			"image": "012.jpg",
+			"topDesc": "When a song starts with the line \"Tell me about the time you tried to kill yourself\", you know you're in for a journey.",
+			"mainDesc": "I really like this song. A lot. Maybe it's the barebones bedroom aesthetic. Maybe it's the quirky and sarcastic lines like \"I tried to be subtle, but I'm glad, really, I'm glad that you're alive\" and \"What your grandfather did for the Soviets, well, he was only taking orders, I suppose\", both of which remind me a bit of Car Seat Headrest. It's probably a combination of all these things. This is a sad song about a troubled person, that's brightened up with some great dry humour that gives the song a personality of its own. From what I can see, this group disbanded earlier this year, which is a shame. Hopefully we'll hear great things like this from its members in the future."
+		},
+		{
+			"order": "013",
+			"songName": "Stripped Down",
+			"artistName": "Molly Sterling",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/4NNlEZO8SveOn10VpdqUbT",
+			"image": "013.jpg",
+			"topDesc": "A powerful and stunning piece from one of Ireland's most exciting new singer-songwriters.",
+			"mainDesc": "I'm not normally a big fan of the typical singer-songwriter sound, but Molly Sterling is something special. Her voice is really unique and you can hear the emotion pouring out in this track. The production is minimalistic, but as more and more instrumentation gets added, the song feels more and more powerful, in a way that never sounds tired or cliche. I keep coming back to this one, and if you give it a listen, I don't think you'll be able to blame me."
+		},
+		{
+			"order": "014",
+			"songName": "Automatic",
+			"artistName": "True Tides",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/6byppFFxvrHGwef2uAyo7w",
 			"image": "014.jpg",
-			"topDesc": "desc"
-    },
-    {
-      "order": "015",
-      "songName": "Love Flush",
-      "artistName": "Æ Mak",
-      "mediaType": "soundcloud",
-      "mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/467158848&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+			"topDesc": "Infectious pop track from the three Cork brothers. It's simple, it's wholesome and it's just really good."
+		},
+		{
+			"order": "015",
+			"songName": "Love Flush",
+			"artistName": "Æ Mak",
+			"mediaType": "soundcloud",
+			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/467158848&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
 			"image": "015.jpg",
-			"topDesc": "desc"
-    },
-    {
-      "order": "016",
-      "songName": "Wildin'",
-      "artistName": "Awkward Z.",
-      "mediaType": "soundcloud",
-      "mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/473299920&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+			"topDesc": "A really unique and artistic pop track with a minimalist start, leading to a booming chorus"
+		},
+		{
+			"order": "016",
+			"songName": "Wildin'",
+			"artistName": "Awkward Z.",
+			"mediaType": "soundcloud",
+			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/473299920&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
 			"image": "016.jpg",
-			"topDesc": "desc"
-	},
-	{
-		"order": "017",
-		"songName": "Ignorant Infatuation",
-		"artistName": "NY5HA",
-		"mediaType": "spotify",
-		"mediaLink": "https://open.spotify.com/embed/track/38YRinZmwfTuDSHCRxfJwq",
-			  "image": "017.jpg",
-			  "topDesc": "desc"
-	  },
-    {
-      "order": "018",
-      "songName": "Moodswings",
-      "artistName": "Daire Patel",
-      "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/38YRinZmwfTuDSHCRxfJwq",
+			"topDesc": "A great feel-good hip-hop track that's bringing a bit of summer into these chilly nights.",
+			"mainDesc": "I'm not sure how I found this track, but it's really good. It reminds me a bit of Devastated by Joey Bada$$, with a really peppy beat that Awkward Z. sounds perfect over. Definitely looking forward to what else this guy comes out with next. If you're heading to Hard Working Class Heroes this weekend (and I wish I was...), definitely check this guy out."
+		},
+		{
+			"order": "017",
+			"songName": "Ignorant Infatuation",
+			"artistName": "NY5HA",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/38YRinZmwfTuDSHCRxfJwq",
+			"image": "017.jpg",
+			"topDesc": "A compelling song featuring a soulful vocal performance, beautiful vocal harmonies and a very catchy hook.",
+			"mainDesc": "This track sounds really familiar to me, but I'm not sure how. The hook feels super familiar, but I've no idea why. Nonetheless, it's a really good song. It looks like the group is on hiatus currently, but I'm sure the future's bright for this group of musicians."
+		},
+		{
+			"order": "018",
+			"songName": "Moodswings",
+			"artistName": "Daire Patel",
+			"mediaType": "soundcloud",
+			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/448020330&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
 			"image": "018.jpg",
-			"topDesc": "desc"
-    },
-    {
-      "order": "019",
-      "songName": "Get Worse",
-      "artistName": "FIELDS",
-      "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/0zYVTzBzoE1D1lEK7Yqc0D",
+			"topDesc": "Short but sweet trap song over a beautiful dreamy beat.",
+			"mainDesc": "Daire Patel is the first Irish guy I've come across who can do the whole new-wave Soundcloud sound properly. He floats over the beat like one of the greats, and reminds me a bit of Uzi mixed with some Juice WRLD. Really looking forward to what else he comes out with."
+		},
+		{
+			"order": "019",
+			"songName": "Get Worse",
+			"artistName": "FIELDS",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/0zYVTzBzoE1D1lEK7Yqc0D",
 			"image": "019.jpg",
 			"topDesc": "A powerful indie rock track that tackles impostor syndrome elegantly."
-    },
-    {
-      "order": "020",
-      "songName": "Dunkirk",
-      "artistName": "Silverbacks",
-      "mediaType": "soundcloud",
-      "mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/425262333&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+		},
+		{
+			"order": "020",
+			"songName": "Dunkirk",
+			"artistName": "Silverbacks",
+			"mediaType": "soundcloud",
+			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/425262333&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
 			"image": "020.jpg",
-			"topDesc": "desc"
-    },
-    {
-      "order": "021",
-      "songName": "Tired Eyes",
-      "artistName": "Arvo Party feat. LARKS",
-      "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/41AuCATbNNqyVZjDQFBioU",
+			"topDesc": "A really fun post punk track that continually impresses on every turn.",
+			"mainDesc": "I came across this one on a playlist for the HWCH 2018, and I was really impressed. It starts off strong with a catchy riff, witty lyrics and ends with a really satisfying ending that caught me off guard a bit. Musically, it reminds me of Otherkin a little bit, but then the song will take a new creative turn and impress me yet again. These guys definitely aren't using every punk trick in the book, and I'm looking forward to hearing more from them."
+		},
+		{
+			"order": "021",
+			"songName": "Tired Eyes",
+			"artistName": "Arvo Party feat. LARKS",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/41AuCATbNNqyVZjDQFBioU",
 			"image": "021.jpg",
+			"topDesc": "Excellent electronic track that has real beauty in its subtlety.",
+			"mainDesc": "The vocal feature from LARKS is really top notch too. Tired Eyes' latest album \"II\" is out now, and I'm gonna check it out as soon as I can."
+		},
+		{
+			"order": "022",
+			"songName": "Acrasia",
+			"artistName": "In Their Thousands",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/7CSRAWX0mCU8c0cIFzikyM",
+			"image": "022.jpg",
+			"topDesc": "A powerful track from the promising Donegal band with some really chilling acapella moments.",
+			"mainDesc": "My friend Darragh introduced me to guys through their song The Pattern. I thought they were alright at the start, but they've grown on me a lot. I love how this track gradually adds some electronic components, it's a really progressive sound. They've got an extended EP/album of old tracks up on Spotify now, but they've a brand new album coming out soon (hopefully). Definitely worth checking out."
+		},
+		{
+			"order": "023",
+			"songName": "Gasmask + Happiness",
+			"artistName": "Automatic Blue",
+			"mediaType": "soundcloud",
+			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/416293788&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+			"image": "023.jpg",
+			"topDesc": "A really unique electronic track with fantastically morphed vocals.",
+			"mainDesc": "The production on this one is really good. I'm not sure if he's using autotune or a vocoder or what, but the vocals are really good and are definitely not overdone. This guy is part of Hausu Records down in Cork. They seem to be a really exciting group with loads of talented artists. I'd definitely recommend checking out their full line-up of contributors."
+    },
+    {
+      "order": "024",
+			"songName": "You're Bringing Me (Down)",
+			"artistName": "Thumper",
+			"mediaType": "soundcloud",
+			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/504435675&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+			"image": "024_o.jpg",
 			"topDesc": "desc"
     },
     {
-      "order": "022",
-      "songName": "Acrasia",
-      "artistName": "In Their Thousands",
-      "mediaType": "spotify",
-      "mediaLink": "https://open.spotify.com/embed/track/7CSRAWX0mCU8c0cIFzikyM",
-			"image": "022.jpg",
+      "order": "025",
+			"songName": "Are You Alright?",
+			"artistName": "Yenkee",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/1J4FeeCZilWMZbqg2yQFpD",
+			"image": "025.jpg",
+			"topDesc": "desc"
+    },
+    {
+      "order": "026",
+			"songName": "Lie Fallow",
+			"artistName": "Elephant",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/4byiGULXBMM6p0uGpkSRhu",
+			"image": "026.jpg",
+			"topDesc": "desc"
+    },
+    {
+      "order": "027",
+			"songName": "You",
+			"artistName": "Elaine Malone",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/4xIgg79lPVKytJMzvmdehh",
+			"image": "027.jpg",
+			"topDesc": "desc"
+    },
+    {
+      "order": "028",
+			"songName": "Every Line & Curve",
+			"artistName": "1000 Beasts feat. Jacob Henley",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/0HQnyOzcaRtCMcVnbyrxH6",
+			"image": "028.jpg",
+			"topDesc": "desc"
+    },
+    {
+      "order": "029",
+			"songName": "Year Zero",
+			"artistName": "Laurie Shaw",
+			"mediaType": "soundcloud",
+			"mediaLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/497442708&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+			"image": "029.jpg",
 			"topDesc": "desc"
     }
-  ]
+	]
 }
