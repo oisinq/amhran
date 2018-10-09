@@ -41,7 +41,7 @@ const Track = ({track, main}) => {
                 {embed}
                 </div>
                 <div className="flexElement arrow">
-                    <img src={Arrow} alt="" width="63"></img>
+                    {/* <img src={Arrow} alt="" width="63"></img> */}
                 </div>
             </div>
         </div>);
