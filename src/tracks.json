@@ -241,6 +241,15 @@
 			"image": "025.jpg",
 			"topDesc": "Dreamy lo-fi pop hit from the Cork band.",
 			"mainDesc": "I really like this one, it's super catchy. The music video up on YouTube is really unique too."
+		},
+		{
+		  "order": "026",
+				"songName": "Lie Fallow",
+				"artistName": "Elephant",
+				"mediaType": "spotify",
+				"mediaLink": "https://open.spotify.com/embed/track/4byiGULXBMM6p0uGpkSRhu",
+				"image": "026.jpg",
+				"topDesc": "Incredibly vulnerable track from the multi-talented Dundalk musician."
 		}
 	]
 }
