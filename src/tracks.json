@@ -250,6 +250,15 @@
 				"mediaLink": "https://open.spotify.com/embed/track/4byiGULXBMM6p0uGpkSRhu",
 				"image": "026.jpg",
 				"topDesc": "Incredibly vulnerable track from the multi-talented Dundalk musician."
+		},
+		{
+		  "order": "027",
+				"songName": "You",
+				"artistName": "Elaine Malone",
+				"mediaType": "spotify",
+				"mediaLink": "https://open.spotify.com/embed/track/4xIgg79lPVKytJMzvmdehh",
+				"image": "027.jpg",
+				"topDesc": "Beautiful psychedelic-folk song that's been following me all week."
 		}
 	]
 }
