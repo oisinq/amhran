@@ -259,6 +259,15 @@
 				"mediaLink": "https://open.spotify.com/embed/track/4xIgg79lPVKytJMzvmdehh",
 				"image": "027.jpg",
 				"topDesc": "Beautiful psychedelic-folk song that's been following me all week."
+		},
+		{
+		  "order": "028",
+				"songName": "Every Line & Curve",
+				"artistName": "1000 Beasts feat. Jacob Henley",
+				"mediaType": "spotify",
+				"mediaLink": "https://open.spotify.com/embed/track/0HQnyOzcaRtCMcVnbyrxH6",
+				"image": "028.jpg",
+		  "topDesc": "Incredibly well-produced alt-pop anthem"
 		}
 	]
 }
