@@ -278,6 +278,14 @@
 				"image": "029.jpg",
 		  "topDesc": "Another killer track from the prolific Cork-based songwriter",
 		  "mainDesc": "Only just discovered this guy, and he has a crazy amount of music up online. I've been a fan of every track I've come across (especially Inserts from earlier in the year), so I'll definitely have to check out the rest of his music. This one reminds me a bit of Arctic Monkeys' weirder stuff. Highly recommended."
+		},
+		{
+			"order": "030",
+			"songName": "Feathers",
+			"artistName": "Lōwli",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/4wSu7VgKHE6kTe4vi5aWNp",
+			"image": "030.jpg"
 		}
 	]
 }
