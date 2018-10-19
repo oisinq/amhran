@@ -9,9 +9,11 @@ const Nav = ({origin}) => {
       content = <div id="navWrapper"><div class="navLink"><Link to="/" className="link">Today</Link></div></div>;  
     } else if (origin === "main") {
         content = <div id="navWrapper"><div class="navLink"><Link to="/archive/" className="link">Archive</Link></div></div>
+    } else if (origin === "track") {
+      content = <div id="navWrapper"><div class="navLink"><Link to="/archive" className="link">Archive</Link></div></div>;  
     }else {
         content = <div id="navWrapper"><div class="navLink"><Link to="/archive/" className="link">Archive</Link></div>
-        <div class="navLink"><Link to="/" className="link">Today</Link></div>
+        <div class="navLink"><Link to="/" className="link">Today2</Link></div>
         </div>
     }
 
