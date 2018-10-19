@@ -294,6 +294,14 @@
 			"mediaType": "spotify",
 			"mediaLink": "https://open.spotify.com/embed/track/2HQmh4HlTMLCjN2I5sD0BA",
 			"image": "031.jpg"
+		},
+		{
+			"order": "032",
+			"songName": "Samurai",
+			"artistName": "Flecks",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/67fjkZOQeQgs6XLlIJtdyB",
+			"image": "032.jpg"
 		}
 	]
 }
