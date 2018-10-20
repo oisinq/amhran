@@ -302,6 +302,14 @@
 			"mediaType": "spotify",
 			"mediaLink": "https://open.spotify.com/embed/track/67fjkZOQeQgs6XLlIJtdyB",
 			"image": "032.jpg"
+		},
+		{
+			"order": "033",
+			"songName": "Everybody Loves You",
+			"artistName": "SOAK",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/1PxYBwSk5iZkp43hR5v6yu",
+			"image": "033.jpg"
 		}
 	]
 }
