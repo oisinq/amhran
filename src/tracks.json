@@ -326,6 +326,14 @@
 			"mediaType": "spotify",
 			"mediaLink": "https://open.spotify.com/embed/track/4ANPD30CWSouyKnQhHSpcw",
 			"image": "035.jpg"
+		},
+		{
+			"order": "036",
+			"songName": "Look Both Ways",
+			"artistName": "NONZUS MAGNUS",
+			"mediaType": "spotify",
+			"mediaLink": "https://open.spotify.com/embed/track/3sIpoj4GoKL7jjotwfmnzZ",
+			"image": "036.png"
 		}
 	]
 }
