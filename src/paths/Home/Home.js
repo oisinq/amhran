@@ -4,7 +4,6 @@ import Track from '../../components/Track/Track';
 import Footer from '../../components/Footer/Footer';
 import './Home.css';
 
-
 class Home extends React.Component {
   render() {
     return (
