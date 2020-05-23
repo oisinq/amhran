@@ -19,7 +19,7 @@ const SEO = props => {
       <meta property="twitter:title" content={title} />
       <meta property="og:description" content={description} />
       <meta property="twitter:description" content={description} />
-      <meta property="og:url" content={siteName} />
+      <meta property="og:url" content={url} />
       <meta property="og:image" content={imageUrl} />
       <meta property="twitter:image" content={imageUrl} />
       <meta property="og:type" content={type} />
