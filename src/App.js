@@ -3,7 +3,6 @@ import { Redirect, Route, Switch } from 'react-router-dom';
 import trackList from './tracks';
 import Home from './paths/Home/Home';
 import Archive from './paths/Archive/Archive';
-import NoMatch from './paths/NoMatch/NoMatch';
 import BrowserRouter from 'react-router-dom/BrowserRouter';
 
 const App = () => {
