@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom'
 
 const Card = ({track}) => {
 
-
     let imager = require(`../../images/${track.image}`);
     let backgroundStyle = {
         "background": `linear-gradient(
@@ -14,7 +13,6 @@ const Card = ({track}) => {
         "background-size": "cover",
         "background-position": "center"
     }
-
 
     return (
         <Link to={`/${track.order}`}  style={{ textDecoration: 'none' }}>

@@ -5,7 +5,6 @@ import Twitter from '../../images/twitter.svg'
 import Facebook from '../../images/facebook.svg'
 import Instagram from '../../images/instagram.svg'
 import Logo from '../Logo/Logo';
-// import Logo from '../../images/logo.svg'
 
 const Footer = () => {
     return(
@@ -17,7 +16,6 @@ const Footer = () => {
         <span className="footerTextSmall">Note: Please only send Bandcamp, Soundcloud or Spotify links.</span>
         <Submissions />
         <div className="bottomFooter">
-            {/* <div className="footerElement"><img src={Logo} alt="logo" height="53"></img></div> */}
             <Logo/>
             <div className="socials">
                 <div className="footerElement"><a href="https://twitter.com/amhranIE"><img src={Twitter} alt="Twitter" height="43"></img></a></div>
@@ -25,7 +23,7 @@ const Footer = () => {
                 <div className="footerElement"><a href="https://instagram.com/amhranIE"><img src={Instagram} alt="Instagram" height="43"></img></a></div>
             </div>
         </div>
-        <span id="veryBottom">Site by <a href="https://oisin.io">Oisin Quinn</a></span>
+        <span id="veryBottom">Site by <a href="https://oisin.io">Oisín Quinn</a></span>
     </div>
 );
 }
