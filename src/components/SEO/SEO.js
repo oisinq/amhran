@@ -4,7 +4,6 @@ import {Helmet} from 'react-helmet';
 
 const SEO = props => {
   const {title, description, url, image, type, siteName, twitterCard} = props;
-  const imgElement = React.useRef(null);
 
   const [dimensions, setDimensions] = useState({
     height: 0,
@@ -28,7 +27,7 @@ const SEO = props => {
     }
 
     img.src = imageUrl;
-  }, [])
+  }, [imageUrl])
 
   
 
