@@ -14,11 +14,10 @@ const SEO = props => {
       <meta property="og:type" content={type} />
       <meta property="og:site_name" content={siteName} />
       <meta property="twitter:card" content={twitterCard} />
+      <meta property="twitter:image" content={image} />
     </Helmet>
   );
 };
-
-export default SEO;
 
 SEO.propTypes = {
   title: PropTypes.string,
@@ -39,3 +38,5 @@ SEO.defaultProps = {
   siteName: 'Amhrán',
   twitterCard: 'summary_large_image',
 };
+
+export default SEO;
