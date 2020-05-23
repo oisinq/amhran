@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import {Helmet} from 'react-helmet';
 
@@ -19,16 +19,20 @@ const SEO = props => {
 
   let imageUrl = document.baseURI + staticImageRelativeUrl;
 
-  var img = new Image();
+  useEffect(() => {
+    var img = new Image();
 
-  img.onload = function(){
-    setDimensions({
-      height: img.naturalHeight,
-      width: img.naturalWidth
-    })
-  }
+    img.onload = function() {
+      setDimensions({
+        height: img.naturalHeight,
+        width: img.naturalWidth
+      })
+    }
 
-  img.src = imageUrl;
+    img.src = imageUrl;
+  }, [])
+
+  
 
   return (
     <Helmet>
