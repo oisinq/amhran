@@ -15,9 +15,7 @@ const SEO = props => {
 
   let staticImageRelativeUrl = require(`../../images/${image}`);
 
-  staticImageRelativeUrl = staticImageRelativeUrl.substring(1);
-
-  let imageUrl = document.baseURI + staticImageRelativeUrl;
+  let imageUrl = window.location.origin + staticImageRelativeUrl;
 
   useEffect(() => {
     var img = new Image();
