@@ -8,19 +8,19 @@ const Track = ({track, main}) => {
     let embed;
 
     if (track.mediaType === "spotify") {
-        embed = <iframe src={track.mediaLink} title="Track of the day" width="300px" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+        embed = <iframe src={track.mediaLink} title="Track of the day" width="300px" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
     } else if (track.mediaType === "bandcamp") {
         embed = <iframe src={track.mediaLink} title="Track of the day" seamless className="bandcamp">{track.songName} by {track.artistName}</iframe>
     } else if (track.mediaType === "soundcloud") {
-        embed = <iframe className="soundcloud" title="Track of the day" height="166" scrolling="no" frameborder="no" allow="autoplay" src={track.mediaLink}></iframe>
+        embed = <iframe className="soundcloud" title="Track of the day" height="166" scrolling="no" frameBorder="no" allow="autoplay" src={track.mediaLink}></iframe>
     }
 
     let imager = require(`../../images/${track.image}`);
 
     let backgroundStyle = {
-        "background-image": `linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.3), rgba(0,0,0,1)), url("${imager}")`,
-        "background-size": "cover",
-        "background-position": "center"
+        "backgroundImage": `linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.3), rgba(0,0,0,1)), url("${imager}")`,
+        "backgroundSize": "cover",
+        "backgroundPosition": "center"
     }
     let nav;
 

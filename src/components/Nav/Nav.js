@@ -6,12 +6,12 @@ import Logo from '../Logo/Logo';
 const Nav = ({origin}) => {
     let content;
     if (origin === "archive") {
-      content = <div id="navWrapper"><div class="navLink"><Link to="/" className="link">Today</Link></div></div>;  
+      content = <div id="navWrapper"><div className="navLink"><Link to="/" className="link">Today</Link></div></div>;  
     } else if (origin === "main") {
-        content = <div id="navWrapper"><div class="navLink"><Link to="/archive/" className="link">Archive</Link></div></div>
+        content = <div id="navWrapper"><div className="navLink"><Link to="/archive/" className="link">Archive</Link></div></div>
     }else {
-        content = <div id="navWrapper"><div class="navLink"><Link to="/archive/" className="link">Archive</Link></div>
-        <div class="navLink"><Link to="/" className="link">Today</Link></div>
+        content = <div id="navWrapper"><div className="navLink"><Link to="/archive/" className="link">Archive</Link></div>
+        <div className="navLink"><Link to="/" className="link">Today</Link></div>
         </div>
     }
 

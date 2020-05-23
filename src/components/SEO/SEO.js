@@ -5,6 +5,14 @@ import {Helmet} from 'react-helmet';
 const SEO = props => {
   const {title, description, url, image, type, siteName, twitterCard} = props;
 
+  console.log(`../../images/${image}`)
+
+  let staticImageRelativeUrl = require(`../../images/${image}`);
+
+  staticImageRelativeUrl = staticImageRelativeUrl.substring(1);
+
+  let imageUrl = document.baseURI + staticImageRelativeUrl;
+
   return (
     <Helmet>
       <meta property="og:title" content={title} />
@@ -12,8 +20,8 @@ const SEO = props => {
       <meta property="og:description" content={description} />
       <meta property="twitter:description" content={description} />
       <meta property="og:url" content={url} />
-      <meta property="og:image" content={image} />
-      <meta property="twitter:image" content={image} />
+      <meta property="og:image" content={imageUrl} />
+      <meta property="twitter:image" content={imageUrl} />
       <meta property="og:type" content={type} />
       <meta property="og:site_name" content={siteName} />
       <meta property="twitter:card" content={twitterCard} />
