@@ -1,4 +1,4 @@
-FROM node:16.4.2
+FROM node:16.5.0
 RUN mkdir /usr/src/app
 WORKDIR /usr/src/app
 ENV PATH /usr/src/app/node_modules/.bin:$PATH
